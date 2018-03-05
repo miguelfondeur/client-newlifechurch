@@ -1,0 +1,21 @@
+{
+  "name": "newlife",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "hugo server & gulp",
+    "build": "hugo"
+  },
+  "dependencies": {
+    "serve-favicon": "~2.4.2"
+  },
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-uglify": "^3.0.0",
+    "postcss-cssnext": "^2.11.0",
+    "postcss-easy-import": "^2.1.0"
+  }
+}

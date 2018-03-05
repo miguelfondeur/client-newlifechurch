@@ -1,2 +1,2 @@
-# client-newlifechurch
-New Life Church Website
+# newlifebaptist
+New Life Concord Website

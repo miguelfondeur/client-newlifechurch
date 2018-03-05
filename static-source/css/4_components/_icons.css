@@ -1,0 +1,140 @@
+.icon-round {
+    width: 19rem;
+    height: 19rem;
+    border: .4rem solid rgba(250, 250, 250, .95);
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.icon-round i {
+    color: #fff;
+    line-height: 22.8rem;
+    font-size: 11rem;
+}
+
+.icon-round-small {
+	  border: .1rem solid;
+    border-radius: 50%;
+    height: 2.5rem;
+    width: 2.5rem;
+    display: inline-block;
+		padding-top: .5rem;
+		margin-right: .4rem;
+}
+
+a.icon-round-small:hover {
+	background-color: #333;
+	color: #fff;
+}
+
+.side-nav .connect-icons {
+    margin-left: 3rem;
+}
+
+.side-nav .icon-round-small {
+    padding-top: .5rem;
+    margin-right: 1.2rem;
+    text-align: center;
+    color: #501157;
+}
+
+.side-nav .icon-round-small:hover {
+    background-color: initial;
+    color: initial;
+}
+
+.icon-round-small i {
+	font-size: 1.3rem;
+}
+
+.icon-round i.icon-iphone {
+    font-size: 14rem;
+}
+
+.icon-round + p {
+    text-align: center;
+    color: rgba(250, 250, 250, .95);
+    font-weight: 500;
+}
+
+.connect-icons {
+    display: inline-block;
+    margin-top: 1.7rem;
+    position: absolute;
+    right: 3rem;
+}
+
+@media screen and (max-width: 965px) {
+    .connect-icons {
+        display: none;
+    }
+}
+
+.vision-icon {
+    height: 15rem;
+    font-size: 15rem;
+    line-height: 15rem;
+    display: inline-block;
+    color: #501157;
+}
+
+.vision-icon.icon-009-teacher-reading {
+    font-size: 14rem;
+}
+
+.section-icon {
+    display: block;
+    font-size: 43rem;
+    height: 35rem;
+    width: 80%;
+    position: relative;
+    color: #501157;
+}
+
+.section-icon i {
+    position: absolute;
+    font-size: 50%;
+    top: 55px;
+    left: 25%;
+    text-align: center;
+}
+
+.section-icon.with-border {
+    border: 1rem solid;
+    margin: 0;
+}
+
+.section-icon .icon-mixer-2 {
+    transform: rotate(90deg);
+    top: 35px;
+    left: 20%;
+}
+
+.section-icon .icon-android-globe{
+    position: absolute;
+    font-size: 90%;
+    top: 60px;
+    left: 10%;
+    text-align: center;
+}
+
+.section-icon .icon-ios-partlysunny-outline {
+    position: absolute;
+    font-size: 100%;
+    top: -3.5rem;
+    left: 0;
+    text-align: center;
+    line-height: 34rem;
+}
+
+.large-icon {
+    display: block;
+    margin: 0 auto;
+    color: rgba(80,17,87,1);
+    font-size: 18rem;
+    height: 19rem;
+}
+
+.large-icon.icon-001-people {
+    font-size: 16rem;
+}

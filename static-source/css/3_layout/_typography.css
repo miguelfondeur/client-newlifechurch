@@ -1,0 +1,17 @@
+.medium-header {
+	color:#2d2a2b;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.4rem; 
+	margin: 0 0 2rem;
+	font-weight: 700;
+	text-align: left;
+}
+
+.small-header {
+	color: #666666;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 1.8rem;
+	text-align: left;
+}

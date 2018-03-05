@@ -1,0 +1,140 @@
+nav {
+    display: block;
+    width: 100%;
+    background-color: #333;
+    background-color: #fff;
+    height: 5.5rem;
+    position: absolute;
+    z-index: 5;
+    transition: background-color .1s linear;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    flex: 0 0 auto;
+}
+
+.wrapper:not(.home-page) > nav.site-nav {
+    z-index: 10;
+    position: fixed;
+    top: 0;
+}
+
+nav.site-nav.site-nav-scrolled {
+    z-index: 10;
+    background-color: #333;
+    border-bottom: none;
+    position: fixed;
+    top: 0;
+}
+
+nav.site-nav.site-nav-scrolled  li a, nav.site-nav.site-nav-scrolled a, nav.site-nav.site-nav-scrolled i {
+    color: #fff;
+}
+nav.site-nav.site-nav-scrolled  li a + ul li a{
+    color: #333;
+}
+nav.site-nav.site-nav-scrolled  li a + ul li a:hover{
+    color: #fff;
+}
+
+nav li {
+    display:inline-block;
+    text-align: center;
+    position: relative;
+}
+
+nav li a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    line-height: 5.5rem;
+    height: 5.5rem;
+    display: block;
+    padding: 0 1.5rem;
+    color: #333;
+}
+
+nav li a:hover {
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+}
+
+nav.site-nav.site-nav-scrolled li a:hover {
+    background: #444;
+}
+
+nav.site-nav li a + ul {
+    opacity: 0;
+    position: absolute;
+    background-color: #fff;
+    z-index: 8;
+    top: 5.4rem;
+    margin: 0;
+    border: 1px solid #333;
+    left: -9999px;
+    padding: 0;
+    width: 17.5rem;
+    transition: opacity .2s ease-in-out;
+}
+nav.site-nav li a + ul li{
+    width: 100%;
+}
+nav.site-nav li a + ul li a{
+    color: #333;
+    height: initial;
+    line-height: 1.4;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    text-align: right;
+    transition: .1s linear;
+}
+nav.site-nav li a + ul li a:hover{
+    background-color: #323232;
+    color: #fff;
+}
+
+nav.site-nav li a:hover + ul, nav.site-nav li a + ul:hover{
+    right: 0;
+    left: initial;
+    opacity: 1;
+}
+
+nav.site-nav.site-nav-scrolled .logo {
+    color: #fff;
+}
+
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    left: 3rem;
+    line-height: 5.4rem;
+    font-size: 2.4rem;
+    width: 13rem;
+    text-align: left;
+    color: rgba(80,17,87,1);
+}
+
+.logo span {
+    font-family: 'Italianno', cursive;
+    font-size: 4.4rem;
+}
+
+.logo span + span {
+    font-family: 'montserrat', sans-serif;
+    font-size: 1rem;
+    position: absolute;
+    bottom: .8rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    left: 7.7rem;
+    line-height: 1;
+}
+
+@media screen and (max-width: 965px) {
+    nav li {
+        display: none;
+    }
+}

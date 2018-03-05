@@ -1,0 +1,25 @@
+{{ partial "header" }}
+
+    <div class="wrapper">
+
+        {{ partial "layout-nav" }}
+
+        <header class="site-header internal-page">
+            <h1>{{ .Params.header }}</h1>
+            <i class="icon-ios-arrow-down"></i>
+        </header>
+
+        <div class="page-container">
+
+            <div class="page-content">
+                {{ .Content }}
+            </div>
+      
+            {{ partial "layout-footer" }}
+
+        </div><!-- .main -->
+    </div><!-- .wrapper -->
+
+    {{ partial "layout-side-nav" }}
+
+{{ partial "footer" }} 

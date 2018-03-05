@@ -1,0 +1,16 @@
+{
+	"title": "New Life Baptist Church",
+	"baseURL": "http://newlifeconcord.org",
+	"defaultExtension": "html",
+	"uglyURLs": true,
+	"canonifyurls": false,
+	"relativeURLs": false,
+	"enableRobotsTXT": false,
+	"disableHugoGeneratorInject": true,
+	"metaDataFormat": "json",
+	"disableKinds": ["RSS", "sitemap"],
+	"verbose": false, 
+	"buildDrafts": true,
+	"publishdir": "public/",
+	"logFile": "log.txt"
+}

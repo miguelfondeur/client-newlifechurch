@@ -1,0 +1,11 @@
+.text-center {
+	text-align: center !important;
+}
+
+.padding-left-20 {
+	padding-left: 2rem !important;
+}
+
+.float-right {
+	float: right;
+}

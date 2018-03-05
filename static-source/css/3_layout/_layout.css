@@ -1,0 +1,32 @@
+.container {
+    position: relative;
+    max-width:120rem;
+    width: 100%;
+    padding:0 3rem; 
+    margin: 0 auto;
+}
+
+.container.small {
+    max-width: 93rem;
+}
+
+.wrapper {
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+}
+
+.page-container {
+    background-color: #fafafa;
+    position: relative;/* need this to position inner content */
+    padding-top: 5.5rem;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.page-content {
+    flex: 1;
+}
+
+

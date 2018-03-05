@@ -1,0 +1,63 @@
+/*****************
+ * Form Elements
+ ****************/
+
+input, textarea {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	padding: 15px 10px;
+	margin: 0;
+	width: 100%;
+	text-indent: 0;
+	border-radius: 0;
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,0), inset 0 0 0 0 rgba(0,0,0,0);
+	background-color: transparent;
+	transition: all 0.4s ease;
+	border: 1px solid;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="date"]:focus, input[type="url"]:focus, input[type="tel"]:focus, input[type="search"]:focus, textarea:focus, input[type="submit"] {
+	outline: none;
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,0.1);
+	background-color: #fff;
+}
+
+input[type="text"]:hover, input[type="password"]:hover, input[type="email"]:hover, input[type="number"]:hover, input[type="date"]:hover, input[type="url"]:hover, input[type="tel"]:hover, input[type="search"]:hover, textarea:hover {
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,0.1);
+	background-color: #fff;
+}
+
+.site-input abbr {
+	border-bottom: none;
+	text-decoration: none;
+}
+
+.site-input input, .site-input textarea {
+	border-color: #e4e4e4;
+}
+
+.site-input {
+	position: relative;
+	margin-bottom: 30px;
+	color: #666666;
+}
+
+.site-input, .site-input label {
+	font-family: 'Montserrat',sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 11px !important;
+	text-transform: uppercase;
+
+}
+
+.site-input label {
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+.site-input input,
+.site-input textarea {
+	width: 100%;
+	display: block;
+}

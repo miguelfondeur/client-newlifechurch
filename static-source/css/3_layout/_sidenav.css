@@ -1,0 +1,86 @@
+.side-nav {
+    position: fixed;
+    right: -28rem;
+    height: 100vh;
+    width: 28rem;
+    background-color: #ededed;
+		background-image: linear-gradient(#eee, #ddd);
+		font-family: 'Montserrat', sans-serif;
+    top: 0;
+    z-index: 50;
+    padding-top: 5.5rem;
+    transition: right .2s linear;
+    box-shadow: 
+			0 .2rem .5rem 0 rgba(0, 0, 0, 0.2),
+			0 .2rem 1rem 0 rgba(0, 0, 0, 0.2);
+		padding-bottom: 5.5rem;
+		overflow: scroll;
+}
+
+.side-nav li {
+	border-bottom: .1rem solid #dcdcdc;
+}
+
+.side-nav li a , .side-nav i{
+	color: #501157;
+}
+
+.side-nav li a.dropdown + ul {
+	background-color: #f9f9f9;
+	display: none;
+	padding-left: 1.5rem;
+}
+
+.side-nav li a.dropdown + ul li a {
+	color: #501157;
+}
+
+.side-nav li a.dropdown.open + ul{
+	display: block;
+}
+
+.side-nav li ul li{
+	border-bottom: 0;
+}
+
+.side-nav li a {
+	padding: 1.1rem 3rem;
+    width: 100%;
+    display: block;
+    border-top: 1rem;
+    font-size: 1.6rem;
+}
+
+.side-nav li a.dropdown i{
+    float: right;
+}
+
+.wrapper.toggled + .side-nav {
+    right: 0;
+    z-index: 50;
+}
+
+.side-nav-trigger {
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    z-index: 6;
+    top: 2rem;
+    right: 3rem;
+    display: none;
+    font-size: 2rem;
+    color: #444;
+}
+
+
+@media screen and (max-width: 965px) {
+	.side-nav-trigger {
+		display: block;
+	}
+	.side-nav .connect-icons {
+		display: inline-block;
+        position: relative;
+        right: 0;
+        margin: 0 0px 1.5rem 2rem;
+	}
+}
