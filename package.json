@@ -1,4 +1,5 @@
 {
+  "baseURL": "/",
   "name": "newlife",
   "version": "0.0.0",
   "private": true,
