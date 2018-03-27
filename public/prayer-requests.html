@@ -24,7 +24,7 @@
 						<a href="/#aboutus" class="scroll">About Us</a>
 						<ul>
 								<li><a href="/ourvision.html">Our Vision</a></li>
-								<li><a href="/leadership.html">Leadership</a></li>
+								<li><a href="/staff.html">Our Staff</a></li>
 						</ul>  
 				</li>
 				<li>
@@ -45,7 +45,7 @@
 						<a href="#events">Events</a>
 						<ul>
 								<li><a href="/events.html">Upcoming Events</a></li>
-								<li><a href="/">Church Calendar</a></li>
+								<li><a href="https://www.brownbearsw.com/cal/newlifecalendar">Church Calendar</a></li>
 								
 						</ul>
 				</li>
@@ -91,22 +91,22 @@
         <div class="row">
             <div class="col-md-6">
                 <h4>Prayer Request Form</h4>
-                <form>
+                <form name="contact" method="POST" netlify>
                     <div class="site-input">
                         <label for="name">Your Name <abbr title="required">*</abbr></label>
                         <input id="name" type="text" name="name" required>
                     </div>
                     <div class="site-input">
-                        <label for="username">Your Email <abbr title="required">*</abbr></label>
-                        <input id="username" type="text" name="username" required>
+                        <label for="email">Your Email <abbr title="required">*</abbr></label>
+                        <input id="email" type="email" name="email" required>
                     </div>  
                     <div class="site-input">
-                        <label for="username">Subject</label>
-                        <input id="username" type="text" name="username">
+                        <label for="subject">Subject</label>
+                        <input id="subject" type="text" name="subject">
                     </div>
                     <div class="site-input">
-                        <label for="username">Your Request</label>
-                        <textarea id="username" rows="4" cols="50" name="username"></textarea>
+                        <label for="message">Your Request</label>
+                        <textarea id="message" rows="4" cols="50" name="message"></textarea>
                     </div>
                     <button type="submit" class="button blue float-right">Send</button>
                 </form>
@@ -129,7 +129,7 @@
 			<h4>SUNDAY GATHERINGS</h4>
 			<p>Sundays @ 8:30AM &amp; 11am
 				<br>1281 Biscayne Dr, Concord, NC 28027
-				<br>704-702-6215
+				<br>704-782-6215
 			</p>
 			<p></p>
 		</div>
