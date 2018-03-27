@@ -90,7 +90,7 @@
 			</div>
 			<div class="col-md-8 padding-left-20">
 				<h1>Michael Steele</h1>
-				<h3>Youth Pastor</h3>
+				<h3>Family Pastor</h3>
 				<h4>Ministry</h4>
 				<p>
 					Pastor Michael Steele is a native of Harrisburg, NC and is a graduate of Barber-Scotia College (’98) where he received a bachelors of Arts Degree in Criminal Justice, and did his post graduate work at Hood Theological Seminary where he earned his Masters of Divinity Degree.<br>
@@ -122,7 +122,7 @@
 				</p>
 				<h4>Family:</h4>
 				<p>
-					When Josh is not leading the worship team, he is enjoying time with his wife, Sofia Steele and two sons, Ayden Aiden.
+					When Josh is not leading the worship team, he is enjoying time with his wife, Sofia Steele and two sons, Ayden and Austin.
 				</p>
 				<!-- <a class="button blue" href="" target="_blank">Email Josh</a> -->
 			</div>
@@ -159,7 +159,7 @@
 			</div>
 			<div class="col-md-8 padding-left-20">
 				<h1>Tanisha Torrence</h1>
-				<h3>Church Secretary</h3>
+				<h3>Administrative Assistant</h3>
 				<h4>Ministry Experience:</h4>
 				<p>
 					Tanisha Torrence has been a member of New Life for 4 years.  A transplant from the Bronx, NY in 2007, she searched for church to make her home.  New Life won that search on Father’s Day 2013, her first time visit. Since joining she has served under the usher ministry, greeter’s ministry, missions ministry, hospitality ministry and adult choir.  She accepted the role of church administrator and secretary to Pastor Steele in November of 2016.

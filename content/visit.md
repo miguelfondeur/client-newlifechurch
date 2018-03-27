@@ -20,7 +20,7 @@
 						<p>
 							1281 Biscayne Dr, Concord, NC 28027
 							<br>
-							704-702-6215
+							704-782-6215
 							<br>
 							admin@newlifeconcord.org
 						</p>
