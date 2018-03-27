@@ -26,7 +26,7 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h4>Praise Dance Art</h4>
-				<img src="/images/ministry/ShabachPraiseTeam.jpg">
+				<img src="/images/ministry/praiseDanceTeam.jpg">
 				<p>The Praise Dance is an art form combining choregraphed dance steps with signing, providing a visual interpretation to music. It is a ministry of several groups led by very dedicated and talented ladies who put much of their time into teaching the young ladies of New Life. The participants range from pre school through adult and all have the same purpose, to present the gospel in song in a most dramatic expression of the dancing arts.The Adult Ladies Group is the “Shabach Praise Team”  This group is led by Sis Sally Link and assisted by Sis Andrea Hayes.
 				<br>
 				Praise dance is the ballet of the redeemed soul.</p>
