@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h4>Prayer Request Form</h4>
-				<form>
+				<form name="contact" method="POST" netlify>
 					<div class="site-input">
 						<label for="name">Your Name <abbr title="required">*</abbr></label>
 						<input id="name" type="text" name="name" required>
