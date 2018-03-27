@@ -1,18 +1,18 @@
 {
 	"title": "New Life Baptist Church | Leadership Team",
 	"description": "",
-	"header": "Leadership",
+	"header": "Our Staff",
 	"type": "page",
 	"layout": "single",
-	"cannonical": "/leadership.html"
+	"cannonical": "/staff.html"
 }
 <!-- Pastor Steele -->
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
     	<div class="col-md-4">
-				<img src="/images/leadership/Pastor-Steele.jpg">
-				<img src="/images/leadership/Steeles.jpg">
+				<img src="/images/leadership/pastorSteele.jpg">
+				<img src="/images/leadership/pastorSteele2.jpg">
 			</div>
 			<div class="col-md-8 padding-left-20">
 				<h1>Dr. Tommy Steele</h1>
@@ -38,7 +38,7 @@
 	<div class="container">
 		<div class="row">
     	<div class="col-md-4">
-				<img src="/images/leadership/GarynBrenda.jpg">
+				<img src="/images/leadership/pastorGary.jpg">
 			</div>
 			<div class="col-md-8 padding-left-20">
 				<h1>Gary Withers</h1>
@@ -60,23 +60,23 @@
     </div>
 	</div>
 </section>
-<!-- Pastor Samuel Heard -->
+<!-- Pastor Edmonds -->
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
     	<div class="col-md-4">
-				<img src="/images/leadership/swallace.png">
+				<img src="/images/leadership/pastorHayword.jpg">
 			</div>
 			<div class="col-md-8 padding-left-20">
-				<h1>Stephanie Wallace</h1>
-				<h3>Chief of Staff</h3>
-				<h4>Ministry Experience</h4>
+				<h1>Hayword Edmonds</h1>
+				<h3>Deacon Board Chairman</h3>
+				<h4>Ministry Experience:</h4>
 				<p>
-					Stephanie Wallace is originally from Windsor CT and is married to Glenn Wallace who serves in the Media Ministry, they have two daughters. Stephanie received her Bachelor’s Degree in Psychology from Hampton University and a Master’s Degree in Social Work from Springfield College in 2005. In October 2009, Stephanie was ordained by Archbishop LeRoy Bailey Jr. of The First Cathedral Church in Bloomfield CT. While at The First Cathedral, Stephanie served in the Prison Ministry and led the Women’s Health Ministry. In 2008 Stephanie and her family moved to Cary NC where she served as the Interim Youth Minister and volunteered in the church office at Pleasant Grove Church. 
+					Deacon Edmunds came to New Life ready to work and serve in the ministry here. He is retired Air Force and is knowledgeable in many areas and skill sets. He brings to New Life many years of talent and working knowledge.
 					<br>
-					Stephanie and her family made Concord their home in 2009 and joined New Life in 2010. She has served in various ministries, including the Food Pantry and Clothing Closet, Praise Dance, Recruitment and Usher.  Stephanie currently serves on Pastor Steele’s Vision Team, the Church Board and is the leader for Intercessory Prayer. In January 2017, Stephanie accepted the role of Chief of Staff and is responsible for supporting the vision of Pastor Tommy Steele, coordinating the hire of new staff, facilitating monthly ministry leader meetings and bi-annual trainings.
-				</p>
-				<a class="button blue" href="mailto:swallace@newlifeconcord.org" target="_blank">Email Stephanie</a>
+					Deacon Edmonds serves in the following capacities:Deacon Board Chairman, Sunday School Superintendent  Financial Ministry, Outreach Ministry, Soul Winning Ministry, Benevolence Ministry, and Current Church Board Chairman. 
+			</p>
+			<a class="button blue" href="mailto:deaconedmunds@newlifeconcord.org" target="_blank">Email Hayword</a>
 			</div>
     </div>
 	</div>
@@ -86,7 +86,7 @@
 	<div class="container">
 		<div class="row">
     	<div class="col-md-4">
-				<img src="/images/leadership/MikeAmy.jpg">
+				<img src="/images/leadership/pastorMike.jpg">
 			</div>
 			<div class="col-md-8 padding-left-20">
 				<h1>Michael Steele</h1>
@@ -111,7 +111,7 @@
 	<div class="container">
 		<div class="row">
     	<div class="col-md-4">
-				<img src="/images/leadership/JoshSteele.jpg">
+				<img src="/images/leadership/josh.jpg">
 			</div>
 			<div class="col-md-8 padding-left-20">
 				<h1>Joshua Steele</h1>
@@ -129,23 +129,42 @@
     </div>
 	</div>
 </section>
-<!-- Pastor Edmonds -->
+<!-- Pastor Stephanie Wallace -->
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
     	<div class="col-md-4">
-				<img src="/images/leadership/DeaconHaywood.jpg">
+				<img src="/images/leadership/swallace.png">
 			</div>
 			<div class="col-md-8 padding-left-20">
-				<h1>Haywood Edmonds</h1>
-				<h3>Deacon Board Chairman</h3>
+				<h1>Stephanie Wallace</h1>
+				<h3>Chief of Staff</h3>
+				<h4>Ministry Experience</h4>
+				<p>
+					Stephanie Wallace is originally from Windsor CT and is married to Glenn Wallace who serves in the Media Ministry, they have two daughters. Stephanie received her Bachelor’s Degree in Psychology from Hampton University and a Master’s Degree in Social Work from Springfield College in 2005. In October 2009, Stephanie was ordained by Archbishop LeRoy Bailey Jr. of The First Cathedral Church in Bloomfield CT. While at The First Cathedral, Stephanie served in the Prison Ministry and led the Women’s Health Ministry. In 2008 Stephanie and her family moved to Cary NC where she served as the Interim Youth Minister and volunteered in the church office at Pleasant Grove Church. 
+					<br>
+					Stephanie and her family made Concord their home in 2009 and joined New Life in 2010. She has served in various ministries, including the Food Pantry and Clothing Closet, Praise Dance, Recruitment and Usher.  Stephanie currently serves on Pastor Steele’s Vision Team, the Church Board and is the leader for Intercessory Prayer. In January 2017, Stephanie accepted the role of Chief of Staff and is responsible for supporting the vision of Pastor Tommy Steele, coordinating the hire of new staff, facilitating monthly ministry leader meetings and bi-annual trainings.
+				</p>
+				<a class="button blue" href="mailto:swallace@newlifeconcord.org" target="_blank">Email Stephanie</a>
+			</div>
+    </div>
+	</div>
+</section>
+<!-- Tanisha -->
+<section class="interior-section">
+	<div class="container">
+		<div class="row">
+    	<div class="col-md-4">
+				<img src="/images/leadership/tanisha.jpg">
+			</div>
+			<div class="col-md-8 padding-left-20">
+				<h1>Tanisha Torrence</h1>
+				<h3>Church Secretary</h3>
 				<h4>Ministry Experience:</h4>
 				<p>
-					Deacon Edmunds came to New Life ready to work and serve in the ministry here. He is retired Air Force and is knowledgeable in many areas and skill sets. He brings to New Life many years of talent and working knowledge.
-					<br>
-					Deacon Edmonds serves in the following capacities:Deacon Board Chairman, Sunday School Superintendent  Financial Ministry, Outreach Ministry, Soul Winning Ministry, Benevolence Ministry, and Current Church Board Chairman. 
+					Tanisha Torrence has been a member of New Life for 4 years.  A transplant from the Bronx, NY in 2007, she searched for church to make her home.  New Life won that search on Father’s Day 2013, her first time visit. Since joining she has served under the usher ministry, greeter’s ministry, missions ministry, hospitality ministry and adult choir.  She accepted the role of church administrator and secretary to Pastor Steele in November of 2016.
 			</p>
-			<a class="button blue" href="mailto:deaconedmunds@newlifeconcord.org" target="_blank">Email Haywood</a>
+			<a class="button blue" href="mailto:newlifeconcord@outlook.org" target="_blank">Email Tanisha</a>
 			</div>
     </div>
 	</div>
