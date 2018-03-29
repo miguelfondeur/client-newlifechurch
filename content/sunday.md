@@ -10,11 +10,23 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<img src="/images/ministry/kids1.png">	
+				<h2>Kingdom Kids</h2>
+				<p>New Life Kids offers a fun and loving environment, while teaching children about the love of Christ. Our fun spirited Kingdom Kids volunteers, who each have been background checked, are devoted to teaching children and helping parents disciple their families.</p>
 			</div>
 			<div class="col-md-6">
-				<h2>New Life Kids</h2>
-				<p>New Life Kids offers a fun and loving environment, while teaching children about the love of Christ. Our fun spirited New Life Kidz volunteers, who each have been background checked, are devoted to teaching children and helping parents disciple their families.</p>
+				<img src="/images/ministry/kids1.png">	
+			</div>
+		</div>
+	</div>
+</section>
+<section class="interior-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+			</div>
+			<div class="col-md-6">
+				<h2>New Life Nursery</h2>
+				<p>Filler Text. Add Description</p>
 			</div>
 		</div>
 	</div>

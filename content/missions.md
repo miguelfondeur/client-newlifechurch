@@ -18,9 +18,7 @@
 				Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?  38 When saw we thee a stranger, and took thee in? or naked, and clothed thee?  39 Or when saw we thee sick, or in prison, and came unto thee?  40 And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.</p>
 			</div>
 			<div class="col-md-6">
-				<div class="section-icon">
-					<i class="icon-android-globe"></i>
-				</div>
+				<img src="/images/ministry/missionsTeam.jpg">	
 			</div>
     </div>
 	</div>

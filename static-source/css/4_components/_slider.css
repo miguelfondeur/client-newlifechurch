@@ -1,7 +1,7 @@
 .slider {
     width: 100%;
     max-width: 120rem;
-    margin: 50px auto 7rem;
+    margin: 50px auto 70px;
     max-height: 61.5rem;
     overflow: hidden;
 }
@@ -12,6 +12,11 @@
 
 .slick-slide img {
     width: 100%;
+}
+
+button.slick-prev:hover,
+button.slick-next:hover {
+    border: none;
 }
 
 .slick-prev:before,
