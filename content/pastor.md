@@ -1,7 +1,7 @@
 {
 	"title": "New Life Baptist Church | Meet The Pastor",
 	"description": "",
-	"header": "Meet the Pastor",
+	"header": "Meet the Pastor and First Lady",
 	"type": "page",
 	"layout": "single",
 	"cannonical": "/pastor.html"
@@ -12,7 +12,6 @@
 		<div class="row">
     	<div class="col-md-4">
 				<img src="/images/leadership/pastorSteele.jpg">
-				<img src="/images/leadership/pastorSteele2.jpg">
 			</div>
 			<div class="col-md-8 padding-left-20">
 				<h1>Dr. Tommy Steele</h1>
@@ -24,10 +23,45 @@
 				<p>
 					From its humble beginnings, in a storefront building, God used this ministry to see countless souls birthed into the Kingdom of God. Pastor Steele’s belief that every one he meets is a soul for whom Christ died has motivated him to center this ministry on reaching others for Christ. Dr. Tommy Steele is the recipient of many honors including a Doctorate of Theology and a Doctorate in Humanities, but in his mind those pale in comparison to the honor of reaching and ministering to the needs of others.
 				</p>
-				<h4>Family:</h4>
 				<p>
 					Along with his wife and two sons, who serve full time, Dr. Steele has worked selflessly giving himself to the ministry and God has blessed him richly. Over the years he has had the opportunity to preach to thousands across this nation and abroad.
 				</p>
+			</div>
+    </div>
+	</div>
+</section>
+
+<section class="interior-section">
+	<div class="container">
+		<div class="row">
+    	<div class="col-md-4">
+				<img src="/images/leadership/pastorSteele2.jpg">
+			</div>
+			<div class="col-md-8 padding-left-20">
+				<h1>Tonda Bostick Steele</h1>
+				<h3>First Lady</h3>
+				<h4>Ministry Experience:</h4>
+				<p>
+					Our first lady, Mrs. Tonda Bostick Steele, has been married to Dr. Tommy Wayne Steele for over 35 years. They met locally and have been together since then. She attended school in her hometown of Concord, NC.  First Lady Steele has participated in several ministries including the Nursery, Financial committee, Hospitality committee and is over the Ladies of Destiny Ministry (Ladies Fellowship). She has served in the music ministry, as church secretary and on the Adult Choir in past years. First Lady has 7 grandchildren, &amp; enjoys spending time with them and her husband. Her favorite Bible verse is Proverbs 3:6; as she trusts in the Lord to direct all her paths &amp; she fully relies on Him to do whatever He needs to do in her life. She is committed to the Lord, her husband, her family, and the ministry of New Life Baptist Church. 
+				</p>
+			</div>
+    </div>
+	</div>
+</section>
+
+<section class="interior-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 padding-left-20">
+				<h1>Latest Book</h1>
+				<h4>You See The Glory, Now Let MeTell You The Story</h4>
+				<p>
+					You see thee glory but now let me tell you the story. This book is catered to the idividuals desiring a faith lift. Dr. Steele chronologize the events that took place when God called him into the ministry which ultimately lead to starting a church that grew from 20 to 5000 souls.This book will increase your faith. It's an awesome tool proving that if you trust God with all your heart he will lead and guide you into your destiny.
+				</p>
+				<a class="button purple" href="https://www.amazon.com/You-See-Glory-MeTell-Story/dp/1507748272">Purchase Book Today</a>
+			</div>
+			<div class="col-md-4">
+				<img src="/images/book.jpg" style="display:block;margin: 0px auto 60px;padding:15px; background-color: #ddd;">
 			</div>
     </div>
 	</div>
