@@ -49,7 +49,7 @@
 					His Career path led him to work for the City of Concord Police Department where he spent 7 years . He worked as a Patrol Officer, School Resource Officer and finally a Detective, where he spent most of his career.<br>
 					Pastor Mike answered the call to full time ministry in 2005 and served as a Youth Minister and Financial Administrator and was ordained Assistant Pastor of Family Ministry in 2008. Pastor Mike currently serves in the capacity of Youth Pastor and leads You and I, a progressive ministry for married couples, Crown Financial Ministry, serves as Worship Leader, is a part of the benevolence committee and the financial team. Pastor Mike’s life verse is Matthew 6:33- Seek ye first the Kingdom…
 				</p>
-				<h4>Ministry</h4>
+				<h4>Family:</h4>
 				<p>
 					Pastor Mike is married to the former Aimy Williams and God has blessed them with 5 wonderful children: Michaela,  Mariah, Michael Jr., Maya  and Myles. Pastor Mike has a desire to see families strengthened, understanding that if we have strong families, we have strong churches and ultimately strong communities. 
 				</p>
