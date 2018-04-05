@@ -28,7 +28,7 @@
 				<p>
 					His wife Brenda, a talented singer, ministers in song as a member of the music ministry. She assists with the Ladies of Destiny Ministry, and teaches the Women’s Bible Study class. She also oversees the Kitchen operations, and the Lady Ushers.
 				</p>
-				<a class="button blue" href="mailto:pastorwithers@newlifeconcord.org">Email Gary</a>
+				<a class="button blue" href="javascript:void(0);" onclick="javascript:window.location.href='mailto:mailto:pastorwithers@newlifeconcord.org'; return false;">Email Gary</a>
 			</div>
     </div>
 	</div>
@@ -53,7 +53,7 @@
 				<p>
 					Pastor Mike is married to the former Aimy Williams and God has blessed them with 5 wonderful children: Michaela,  Mariah, Michael Jr., Maya  and Myles. Pastor Mike has a desire to see families strengthened, understanding that if we have strong families, we have strong churches and ultimately strong communities. 
 				</p>
-				<a class="button blue" href="mailto:pastormike@newlifeconcord.org" target="_blank">Email Michael</a>
+				<a class="button blue" href="javascript:void(0);" onclick="javascript:window.location.href='mailto:pastormike@newlifeconcord.org'; return false;">Email Michael</a>
 			</div>
     </div>
 	</div>
@@ -74,7 +74,8 @@
 					<br>
 					Deacon Edmonds serves in the following capacities:Deacon Board Chairman, Sunday School Superintendent  Financial Ministry, Outreach Ministry, Soul Winning Ministry, Benevolence Ministry, and Current Church Board Chairman. 
 			</p>
-			<a class="button blue" href="mailto:deaconedmunds@newlifeconcord.org" target="_blank">Email Haywood</a>
+			<a class="button blue" href="javascript:void(0);" onclick="javascript:window.location.href='mailto:deaconedmunds@newlifeconcord.org'; return false;">
+			Email Haywood</a>
 			</div>
     </div>
 	</div>
@@ -95,7 +96,8 @@
 					<br>
 					Kyndal Chase originates from Philadelphia, PA and is a graduate of Albright College (2000) where she received a Bachelor of Arts Degree in Psychology. Kyndal was a member of Camphor Memorial United Methodist Church since her childhood. She served them as youth leader from 2001-2010. Kyndal is married to Christopher Chase and they are blessed with two children, Keira and Branden. The Chase’s joined the New Life family in January 2015 after re-locating to Concord, NC.
 				</p>
-				<a class="button blue" href="mailto:kchase@newlifeconcord.org" target="_blank">Email Kyndal</a>
+				<a class="button blue" href="javascript:void(0);" onclick="javascript:window.location.href='mailto:kchase@newlifeconcord.org'; return false;">
+				Email Kyndal</a>
 			</div>
     </div>
 	</div>
@@ -139,7 +141,8 @@
 					<br>
 					Stephanie and her family made Concord their home in 2009 and joined New Life in 2010. She has served in various ministries, including the Food Pantry and Clothing Closet, Praise Dance, Recruitment and Usher.  Stephanie currently serves on Pastor Steele’s Vision Team, the Church Board and is the leader for Intercessory Prayer. In January 2017, Stephanie accepted the role of Chief of Staff and is responsible for supporting the vision of Pastor Tommy Steele, coordinating the hire of new staff, facilitating monthly ministry leader meetings and bi-annual trainings.
 				</p>
-				<a class="button blue" href="mailto:swallace@newlifeconcord.org" target="_blank">Email Stephanie</a>
+				<a class="button blue" href="javascript:void(0);" onclick="javascript:window.location.href='mailto:swallace@newlifeconcord.org'; return false;">
+				Email Stephanie</a>
 			</div>
     </div>
 	</div>
@@ -158,7 +161,8 @@
 				<p>
 					Tanisha Torrence has been a member of New Life for 4 years.  A transplant from the Bronx, NY in 2007, she searched for church to make her home.  New Life won that search on Father’s Day 2013, her first time visit. Since joining she has served under the usher ministry, greeter’s ministry, missions ministry, hospitality ministry and adult choir.  She accepted the role of church administrator and secretary to Pastor Steele in November of 2016.
 			</p>
-			<a class="button blue" href="mailto:newlifeconcord@outlook.org" target="_blank">Email Tanisha</a>
+			<a class="button blue" href="javascript:void(0);" onclick="javascript:window.location.href='mailto:newlifeconcord@outlook.org'; return false;">
+			Email Tanisha</a>
 			</div>
     </div>
 	</div>
