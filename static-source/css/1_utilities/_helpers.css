@@ -13,3 +13,10 @@
 .no-margin {
 	margin: 0 !important;
 }
+
+.thumbnail {
+	display:block;
+	margin: 0px auto 60px;
+	padding:15px; 
+	background-color: #ddd;
+}

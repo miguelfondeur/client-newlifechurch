@@ -54,14 +54,19 @@
 		<div class="row">
 			<div class="col-md-8 padding-left-20">
 				<h1>Latest Book</h1>
-				<h4>You See The Glory, Now Let MeTell You The Story</h4>
+				<h4>He Said, She Said, But What Does God Say?</h4>
 				<p>
-					You see thee glory but now let me tell you the story. This book is catered to the idividuals desiring a faith lift. Dr. Steele chronologize the events that took place when God called him into the ministry which ultimately lead to starting a church that grew from 20 to 5000 souls.This book will increase your faith. It's an awesome tool proving that if you trust God with all your heart he will lead and guide you into your destiny.
+					This is the latest book from Dr. Tommy W Steele which discusses biblical principals for a successful marriage. If you're looking to improve your marriage, click below to purchase this game changing  book today.
 				</p>
-				<a class="button purple" href="https://www.amazon.com/You-See-Glory-MeTell-Story/dp/1507748272">Purchase Book Today</a>
+				<!-- <a class="button purple" href="https://www.amazon.com/You-See-Glory-MeTell-Story/dp/1507748272">Purchase Book Today</a> -->
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="8KGXM2TFVVUH8">
+					<input type="button" class="button purple" name="submit" alt="PayPal Link" value="Purchase Book with PayPal">
+				</form>
 			</div>
 			<div class="col-md-4">
-				<img src="/images/book.jpg" style="display:block;margin: 0px auto 60px;padding:15px; background-color: #ddd;">
+				<img src="/images/book2.jpg" class="thumbnail">
 			</div>
     </div>
 	</div>
