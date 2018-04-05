@@ -68,11 +68,11 @@
 				<p>The Hospitality, Ushers, and Greeters Ministry of New Life Baptist Church are among the first friendly faces you will meet coming inside our church. They are at each entrance to the main auditorium to greet, assist, and help you as you arrive. They are our Ushers who you will see in the auditorium lending a helping hand to guests and members. They are the friendly and caring individuals who prepare and serve refreshments to our first time visitors after the service.  In the hospitality room is where the visitors get an opportunity to meet the pastor, first lady and pastoral staff.  It is nearly impossible to get into the auditorium of New Life Baptist church prior to the services without being greeted, smiled at or having your hand shaken or all three in any of our services.  We strive to be the warmest and friendliest church in town!</p>
 			</div>
 			<div class="col-md-6">
-				<img src="/images/ministry/UshersMen.jpg">
+				<img src="/images/ministry/ushersMen.jpg">
 				<p>Our Ushers are the helping hands in the main auditorium helping guests and members find seats in the auditorium and assitisting in any way they can to make your visit to New Life, warm and pleasant.They are led by Bro. Samuel Singleton(Far Right) and are the oldest helps ministry of the church.</p>
 			</div>
 			<div class="col-md-6">
-				<img src="/images/ministry/UshersWomen.jpg">
+				<img src="/images/ministry/UshersWomen.JPG">
 				<p>In our services you will notice a group of ladies working with the ushers. They are there to cater to the special needs of women in our services and to assist them in any way they can. They are supported by our parish nurse and her assistants who are also registered nurses.
 				They work as an auxilliary of the usher’s group and are led by Sis Mary Carter(Center Left). These ladies provide the gentle comfort and security needed in sometimes sensitive situations.</p>
 			</div>

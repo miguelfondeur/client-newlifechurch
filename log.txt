@@ -2972,3 +2972,160 @@ Change detected, rebuilding site
 LOG:   2018/04/05 12:09:38 2018-04-05 12:09:38.634 -0400
 WARN 2018/04/05 12:09:38 [en] Unable to locate layout for "404": [404.html]
 LOG:   2018/04/05 12:09:38 Total in 3 ms
+WARN 2018/04/05 13:05:45 No translation bundle found for default language "en"
+WARN 2018/04/05 13:05:45 Translation func for language en not found, use default.
+WARN 2018/04/05 13:05:45 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/04/05 13:05:45 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/04/05 13:05:45 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/04/05 13:05:45 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:05:45 Total in 210 ms
+WARN 2018/04/05 13:05:45 Skip i18nDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/i18n: no such file or directory
+LOG:   2018/04/05 13:06:30 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:06:30 2018-04-05 13:06:30.752 -0400
+WARN 2018/04/05 13:06:30 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:06:30 Total in 3 ms
+LOG:   2018/04/05 13:07:41 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:07:41 2018-04-05 13:07:41.751 -0400
+WARN 2018/04/05 13:07:41 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:07:41 Total in 2 ms
+LOG:   2018/04/05 13:10:15 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:10:15 2018-04-05 13:10:15.745 -0400
+WARN 2018/04/05 13:10:15 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:10:15 Total in 3 ms
+LOG:   2018/04/05 13:11:59 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:11:59 2018-04-05 13:11:59.743 -0400
+WARN 2018/04/05 13:11:59 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:11:59 Total in 3 ms
+LOG:   2018/04/05 13:12:03 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:12:03 2018-04-05 13:12:03.741 -0400
+WARN 2018/04/05 13:12:03 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:12:03 Total in 3 ms
+LOG:   2018/04/05 13:12:10 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:12:10 2018-04-05 13:12:10.740 -0400
+WARN 2018/04/05 13:12:10 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:12:10 Total in 2 ms
+LOG:   2018/04/05 13:12:19 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:12:19 2018-04-05 13:12:19.742 -0400
+WARN 2018/04/05 13:12:19 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:12:19 Total in 3 ms
+LOG:   2018/04/05 13:12:24 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:12:24 2018-04-05 13:12:24.739 -0400
+WARN 2018/04/05 13:12:24 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:12:24 Total in 2 ms
+LOG:   2018/04/05 13:13:49 
+Static file changes detected
+LOG:   2018/04/05 13:13:49 2018-04-05 13:13:49.739 -0400
+LOG:   2018/04/05 13:13:55 
+Static file changes detected
+LOG:   2018/04/05 13:13:55 2018-04-05 13:13:55.735 -0400
+LOG:   2018/04/05 13:14:50 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:14:50 2018-04-05 13:14:50.910 -0400
+WARN 2018/04/05 13:14:50 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:14:50 Total in 2 ms
+LOG:   2018/04/05 13:14:53 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:14:53 2018-04-05 13:14:53.907 -0400
+WARN 2018/04/05 13:14:53 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:14:53 Total in 1 ms
+LOG:   2018/04/05 13:14:59 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:14:59 2018-04-05 13:14:59.911 -0400
+WARN 2018/04/05 13:14:59 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:14:59 Total in 2 ms
+LOG:   2018/04/05 13:15:05 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:15:05 2018-04-05 13:15:05.908 -0400
+WARN 2018/04/05 13:15:05 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:15:05 Total in 2 ms
+LOG:   2018/04/05 13:15:09 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:15:09 2018-04-05 13:15:09.909 -0400
+WARN 2018/04/05 13:15:09 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:15:09 Total in 3 ms
+LOG:   2018/04/05 13:15:14 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:15:14 2018-04-05 13:15:14.909 -0400
+WARN 2018/04/05 13:15:14 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:15:14 Total in 2 ms
+LOG:   2018/04/05 13:16:43 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:16:43 2018-04-05 13:16:43.907 -0400
+WARN 2018/04/05 13:16:43 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:16:43 Total in 2 ms
+LOG:   2018/04/05 13:16:54 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:16:54 2018-04-05 13:16:54.906 -0400
+WARN 2018/04/05 13:16:54 No translation bundle found for default language "en"
+WARN 2018/04/05 13:16:54 Translation func for language en not found, use default.
+WARN 2018/04/05 13:16:54 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/04/05 13:16:54 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:16:54 Total in 13 ms
+LOG:   2018/04/05 13:18:48 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:18:48 2018-04-05 13:18:48.903 -0400
+WARN 2018/04/05 13:18:48 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:18:48 Total in 2 ms
+LOG:   2018/04/05 13:21:21 
+Change detected, rebuilding site
+LOG:   2018/04/05 13:21:21 2018-04-05 13:21:21.900 -0400
+WARN 2018/04/05 13:21:21 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:21:21 Total in 2 ms
+LOG:   2018/04/05 13:24:01 
+Static file changes detected
+LOG:   2018/04/05 13:24:01 2018-04-05 13:24:01.891 -0400
+LOG:   2018/04/05 13:24:02 
+Static file changes detected
+LOG:   2018/04/05 13:24:02 2018-04-05 13:24:02.891 -0400
+LOG:   2018/04/05 13:24:03 
+Static file changes detected
+LOG:   2018/04/05 13:24:03 2018-04-05 13:24:03.894 -0400
+LOG:   2018/04/05 13:24:04 
+Static file changes detected
+LOG:   2018/04/05 13:24:04 2018-04-05 13:24:04.893 -0400
+LOG:   2018/04/05 13:24:07 
+Static file changes detected
+LOG:   2018/04/05 13:24:07 2018-04-05 13:24:07.895 -0400
+LOG:   2018/04/05 13:24:22 
+Static file changes detected
+LOG:   2018/04/05 13:24:22 2018-04-05 13:24:22.892 -0400
+LOG:   2018/04/05 13:24:35 
+Static file changes detected
+LOG:   2018/04/05 13:24:35 2018-04-05 13:24:35.892 -0400
+LOG:   2018/04/05 13:24:36 
+Static file changes detected
+LOG:   2018/04/05 13:24:36 2018-04-05 13:24:36.893 -0400
+LOG:   2018/04/05 13:24:37 
+Static file changes detected
+LOG:   2018/04/05 13:24:37 2018-04-05 13:24:37.893 -0400
+LOG:   2018/04/05 13:24:38 
+Static file changes detected
+LOG:   2018/04/05 13:24:38 2018-04-05 13:24:38.891 -0400
+LOG:   2018/04/05 13:24:41 
+Static file changes detected
+LOG:   2018/04/05 13:24:41 2018-04-05 13:24:41.894 -0400
+LOG:   2018/04/05 13:24:55 
+Static file changes detected
+LOG:   2018/04/05 13:24:55 2018-04-05 13:24:55.893 -0400
+LOG:   2018/04/05 13:27:27 
+Static file changes detected
+LOG:   2018/04/05 13:27:27 2018-04-05 13:27:27.887 -0400
+LOG:   2018/04/05 13:28:28 
+Static file changes detected
+LOG:   2018/04/05 13:28:28 2018-04-05 13:28:28.889 -0400
+WARN 2018/04/05 13:29:48 No translation bundle found for default language "en"
+WARN 2018/04/05 13:29:48 Translation func for language en not found, use default.
+WARN 2018/04/05 13:29:48 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/04/05 13:29:48 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/04/05 13:29:48 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/04/05 13:29:48 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 13:29:48 Total in 97 ms
+WARN 2018/04/05 13:29:48 Skip i18nDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/i18n: no such file or directory
