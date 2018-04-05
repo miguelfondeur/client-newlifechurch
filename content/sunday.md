@@ -38,7 +38,7 @@
 			<p class="text-justify">The Worship team strives to create an environment that allows both the Christian and non-Christian to feel the freedom to worship and connect with God. The team consists of vocalists and musicians. We desire to create an atmosphere of vulnerability, while communicating the vision of Bridge Church through our music and being ministers of the Gospel of Jesus through song.</p>
 			</div>
 			<div class="col-xs-12  col-md-6">	
-				<img src="/images/ministry/worshipTeam.jpg">
+				<img class="profile-pic thumbnail" src="/images/ministry/worshipTeam.jpg">
 			</div>
 		</div>
 	</div>
