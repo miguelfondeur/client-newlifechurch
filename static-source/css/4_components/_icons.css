@@ -107,7 +107,7 @@ a.icon-round-small:hover {
 .section-icon .icon-mixer-2 {
     transform: rotate(90deg);
     top: 35px;
-    left: 20%;
+    left: calc(50% - 130px);
 }
 
 .section-icon .icon-android-globe{
