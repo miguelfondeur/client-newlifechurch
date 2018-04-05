@@ -15,7 +15,7 @@
 					<img src="/images/maps.png">
 				</a>
 				<div class="row">
-					<div class="col-md-12">
+					<div class="col-xs-12">
 						<h4>Contact Info</h4>
 						<p>
 							1281 Biscayne Dr, Concord, NC 28027

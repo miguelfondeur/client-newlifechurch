@@ -9,7 +9,7 @@
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-xs-12 col-sm-8 col-md-6">
 				<h4>Prayer Request Form</h4>
 				<form name="contact" method="POST" netlify>
 					<div class="site-input">
@@ -31,7 +31,7 @@
 					<button type="submit" class="button blue float-right">Send</button>
 				</form>
 			</div>
-			<!-- <div class="col-md-6">
+			<!-- <div class="col-xs-12 col-md-6">
 				<h4>Helpful Resources</h4>
 				<a href=""></a>
 				<a href=""></a>

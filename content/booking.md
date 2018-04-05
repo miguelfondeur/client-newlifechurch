@@ -9,7 +9,7 @@
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-xs-12 col-sm-8 col-md-6">
 				<h4>Book one of our venues</h4>
 				<p>Tell us more about your event</p>
 				<form name="contact" method="POST" netlify>

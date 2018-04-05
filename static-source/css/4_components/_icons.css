@@ -95,7 +95,7 @@ a.icon-round-small:hover {
     position: absolute;
     font-size: 50%;
     top: 55px;
-    left: 25%;
+    left: calc(50% - 115px);
     text-align: center;
 }
 

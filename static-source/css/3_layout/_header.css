@@ -9,9 +9,10 @@ header.site-header.internal-page {
     align-items: center;
     justify-content: center;
     height: 35rem;
-    padding-top:5.5rem;
+    padding: 5.5rem 30px;
     background-image: linear-gradient(#501157, #36003E);
-    position: relative;
+    position: relative;    
+    text-align: center;
 }
 
 header.site-header.internal-page h1 {
