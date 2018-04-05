@@ -2753,3 +2753,115 @@ WARN 2018/04/05 00:57:13 [en] Unable to locate layout for "taxonomyTerm": [categ
 WARN 2018/04/05 00:57:13 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
 WARN 2018/04/05 00:57:13 [en] Unable to locate layout for "404": [404.html]
 LOG:   2018/04/05 00:57:13 Total in 272 ms
+WARN 2018/04/05 01:12:08 No translation bundle found for default language "en"
+WARN 2018/04/05 01:12:08 Translation func for language en not found, use default.
+WARN 2018/04/05 01:12:08 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/04/05 01:12:08 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/04/05 01:12:08 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/04/05 01:12:08 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/04/05 01:12:08 Total in 143 ms
+WARN 2018/04/05 01:12:08 Skip i18nDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/i18n: no such file or directory
+LOG:   2018/04/05 01:15:05 
+Static file changes detected
+LOG:   2018/04/05 01:15:05 2018-04-05 01:15:05.444 -0400
+LOG:   2018/04/05 01:15:06 
+Static file changes detected
+LOG:   2018/04/05 01:15:06 2018-04-05 01:15:06.447 -0400
+LOG:   2018/04/05 01:15:07 
+Static file changes detected
+LOG:   2018/04/05 01:15:07 2018-04-05 01:15:07.449 -0400
+LOG:   2018/04/05 01:15:08 
+Static file changes detected
+LOG:   2018/04/05 01:15:08 2018-04-05 01:15:08.445 -0400
+LOG:   2018/04/05 01:15:11 
+Static file changes detected
+LOG:   2018/04/05 01:15:11 2018-04-05 01:15:11.448 -0400
+LOG:   2018/04/05 01:15:25 
+Static file changes detected
+LOG:   2018/04/05 01:15:25 2018-04-05 01:15:25.448 -0400
+LOG:   2018/04/05 01:15:31 
+Static file changes detected
+LOG:   2018/04/05 01:15:31 2018-04-05 01:15:31.445 -0400
+LOG:   2018/04/05 01:15:32 
+Static file changes detected
+LOG:   2018/04/05 01:15:32 2018-04-05 01:15:32.448 -0400
+LOG:   2018/04/05 01:15:33 
+Static file changes detected
+LOG:   2018/04/05 01:15:33 2018-04-05 01:15:33.448 -0400
+LOG:   2018/04/05 01:15:34 
+Static file changes detected
+LOG:   2018/04/05 01:15:34 2018-04-05 01:15:34.448 -0400
+LOG:   2018/04/05 01:15:37 
+Static file changes detected
+LOG:   2018/04/05 01:15:37 2018-04-05 01:15:37.449 -0400
+LOG:   2018/04/05 01:15:51 
+Static file changes detected
+LOG:   2018/04/05 01:15:51 2018-04-05 01:15:51.449 -0400
+LOG:   2018/04/05 01:16:18 
+Static file changes detected
+LOG:   2018/04/05 01:16:18 2018-04-05 01:16:18.444 -0400
+LOG:   2018/04/05 01:16:19 
+Static file changes detected
+LOG:   2018/04/05 01:16:19 2018-04-05 01:16:19.444 -0400
+LOG:   2018/04/05 01:16:20 
+Static file changes detected
+LOG:   2018/04/05 01:16:20 2018-04-05 01:16:20.443 -0400
+LOG:   2018/04/05 01:16:24 
+Static file changes detected
+LOG:   2018/04/05 01:16:24 2018-04-05 01:16:24.448 -0400
+LOG:   2018/04/05 01:16:39 
+Static file changes detected
+LOG:   2018/04/05 01:16:39 2018-04-05 01:16:39.444 -0400
+LOG:   2018/04/05 01:17:16 
+Static file changes detected
+LOG:   2018/04/05 01:17:16 2018-04-05 01:17:16.443 -0400
+LOG:   2018/04/05 01:17:17 
+Static file changes detected
+LOG:   2018/04/05 01:17:17 2018-04-05 01:17:17.443 -0400
+LOG:   2018/04/05 01:17:18 
+Static file changes detected
+LOG:   2018/04/05 01:17:18 2018-04-05 01:17:18.446 -0400
+LOG:   2018/04/05 01:17:19 
+Static file changes detected
+LOG:   2018/04/05 01:17:19 2018-04-05 01:17:19.446 -0400
+LOG:   2018/04/05 01:17:20 
+Static file changes detected
+LOG:   2018/04/05 01:17:20 2018-04-05 01:17:20.441 -0400
+LOG:   2018/04/05 01:17:23 
+Static file changes detected
+LOG:   2018/04/05 01:17:23 2018-04-05 01:17:23.446 -0400
+LOG:   2018/04/05 01:17:38 
+Static file changes detected
+LOG:   2018/04/05 01:17:38 2018-04-05 01:17:38.445 -0400
+LOG:   2018/04/05 01:19:52 adding created directory to watchlist /Users/Miguel/Block-Digital/Clients/client-newlifechurch/static/images/leadership/leadership
+LOG:   2018/04/05 01:19:52 adding created directory to watchlist /Users/Miguel/Block-Digital/Clients/client-newlifechurch/static/images/leadership/ministry
+LOG:   2018/04/05 01:19:52 
+Static file changes detected
+LOG:   2018/04/05 01:19:52 2018-04-05 01:19:52.440 -0400
+LOG:   2018/04/05 01:19:59 
+Static file changes detected
+LOG:   2018/04/05 01:19:59 2018-04-05 01:19:59.437 -0400
+LOG:   2018/04/05 01:20:00 
+Static file changes detected
+LOG:   2018/04/05 01:20:00 2018-04-05 01:20:00.437 -0400
+LOG:   2018/04/05 01:20:01 
+Static file changes detected
+LOG:   2018/04/05 01:20:01 2018-04-05 01:20:01.438 -0400
+LOG:   2018/04/05 01:20:02 
+Static file changes detected
+LOG:   2018/04/05 01:20:02 2018-04-05 01:20:02.439 -0400
+LOG:   2018/04/05 01:20:05 
+Static file changes detected
+LOG:   2018/04/05 01:20:05 2018-04-05 01:20:05.440 -0400
+LOG:   2018/04/05 01:20:19 
+Static file changes detected
+LOG:   2018/04/05 01:20:19 2018-04-05 01:20:19.439 -0400
+ERROR 2018/04/05 01:20:26 open /Users/Miguel/Block-Digital/Clients/client-newlifechurch/static/images/leadership: no such file or directory
+LOG:   2018/04/05 01:20:26 adding created directory to watchlist /Users/Miguel/Block-Digital/Clients/client-newlifechurch/static/images/leadership
+LOG:   2018/04/05 01:20:26 adding created directory to watchlist /Users/Miguel/Block-Digital/Clients/client-newlifechurch/static/images/ministry
+LOG:   2018/04/05 01:20:26 
+Static file changes detected
+LOG:   2018/04/05 01:20:26 2018-04-05 01:20:26.440 -0400
+LOG:   2018/04/05 01:21:08 
+Static file changes detected
+LOG:   2018/04/05 01:21:08 2018-04-05 01:21:08.436 -0400
