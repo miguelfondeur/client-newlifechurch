@@ -24,6 +24,22 @@
 </section>
 <section class="interior-section">
 	<div class="container">
+		<h2>More Events</h2><br><br>
+		<div class="row">
+			<div class="col-xs-12 col-md-4">
+				<img class="thumbnail profile-pic" src="/images/events/KnightsFundraiser.jpg">
+			</div>
+			<div class="col-xs-12 col-md-4">
+				<img class="thumbnail profile-pic" src="/images/events/SelflessYouthRetreat.jpg">
+			</div>
+			<div class="col-xs-12 col-md-4">
+				<img class="thumbnail profile-pic" src="/images/events/YouthExplosion.jpg">
+			</div>
+		</div>
+	</div>
+</section>
+<section class="interior-section">
+	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-md-6">
 				<h4>Girl Scouts</h4>
