@@ -66,7 +66,7 @@
 				</form>
 			</div>
 			<div class="col-xs-12 col-md-4">
-				<img class="thumbnail profile-pic">
+				<img class="thumbnail profile-pic" src="images/book2.jpg">
 			</div>
     </div>
 	</div>
