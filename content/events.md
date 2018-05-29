@@ -12,11 +12,11 @@
 		<div class="row">
     	<div class="col-xs-12 col-md-6">
 				<!-- <img src="/images/" class="thumbnail"> -->
+				<h4>New events coming soon!</h4>
 			</div>
 			<div class="col-xs-12 col-md-6">
 				<h4>
 					<!-- Event title -->
-					New events coming soon!
 				</h4>
 				<p class="text-justify">
 					<!-- Event description -->
