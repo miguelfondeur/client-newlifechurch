@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Vs code config
+.vscode
+
+# Hugo Public Dir
+public

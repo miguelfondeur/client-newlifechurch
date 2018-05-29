@@ -11,12 +11,15 @@
 		<h2>Upcoming Events</h2><br><br>
 		<div class="row">
     	<div class="col-xs-12 col-md-6">
-				<img src="/images/SHE.jpg" class="thumbnail">
+				<!-- <img src="/images/" class="thumbnail"> -->
 			</div>
 			<div class="col-xs-12 col-md-6">
-				<h4>SHE Conference</h4>
+				<h4>
+					<!-- Event title -->
+					New events coming soon!
+				</h4>
 				<p class="text-justify">
-					Ladies, join us April 12th through the 14th for a spirit filled event celebrating and empowering Godly women. Our guest include renowned speaker and author Heather Lindey and grammy award winning artist Yolanda Adams. For more information or to purchase tickets to this amazing three day event, vist the SHE ministries website at <a style="color: purple;" href="https://www.thesheministries.org/">thesheministries.org</a>.
+					<!-- Event description -->
 				</p>
 			</div>
     </div>
@@ -26,12 +29,9 @@
 	<div class="container">
 		<h2>More Events</h2><br><br>
 		<div class="row">
-			<div class="col-xs-12 col-md-4">
-				<img class="thumbnail profile-pic" src="/images/events/KnightsFundraiser.jpg">
-			</div>
-			<div class="col-xs-12 col-md-4">
-				<img class="thumbnail profile-pic" src="/images/events/SelflessYouthRetreat.jpg">
-			</div>
+			<!-- <div class="col-xs-12 col-md-4">
+				<img class="thumbnail profile-pic" src="/images/events/">
+			</div> -->
 			<div class="col-xs-12 col-md-4">
 				<img class="thumbnail profile-pic" src="/images/events/YouthExplosion.jpg">
 			</div>
