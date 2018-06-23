@@ -12,7 +12,3 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections:
   - label: "Pages"
     name: "pages"
-    files:
-      - label: "Events Page"
-        name: "events"
-        file: "site/content/events.md"
