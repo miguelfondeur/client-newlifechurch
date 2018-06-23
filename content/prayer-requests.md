@@ -32,12 +32,6 @@
 					<button type="submit" class="button blue float-right">Send</button>
 				</form>
 			</div>
-			<!-- <div class="col-xs-12 col-md-6">
-				<h4>Helpful Resources</h4>
-				<a href=""></a>
-				<a href=""></a>
-				<a href=""></a>
-			</div> -->
 		</div>
 	</div>
 </section>
