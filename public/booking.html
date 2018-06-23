@@ -9,7 +9,8 @@
     
     <link rel="stylesheet" type="text/css" href="css/style.css">
 		<link href="https://file.myfontastic.com/dc2Hv4xViZxCPgS5XkatvJ/icons.css" rel="stylesheet">
-		 
+    
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body>
@@ -61,7 +62,7 @@
 				<li>
 						<a href="/#contact" class="scroll">Contact</a>
 						<ul>
-								<li><a href="/visit.html">Visit New Life</a></li>
+								<li><a href="/contact-us.html">Contact Us</a></li>
 								<li><a href="/prayer-requests.html">Prayer Requests</a></li>
 						</ul>
 				</li>
@@ -109,6 +110,7 @@
                         <label for="message">Your Request</label>
                         <textarea id="message" rows="4" cols="50" name="message"></textarea>
                     </div>
+                    <div data-netlify-recaptcha></div>
                     <button type="submit" class="button blue float-right">Send</button>
                 </form>
             </div>
@@ -200,7 +202,7 @@
 		<li>
 				<a href="/#contact" class="dropdown">Contact <i class="icon-ios-arrow-down"></i> </a>
 				<ul>
-					<li><a href="/visit.html">Visit New Life</a></li>
+					<li><a href="/contact-us.html">Contact Us</a></li>
 					<li><a href="/prayer-requests.html">Prayer Requests</a></li>
 				</ul>
 		</li>
@@ -208,6 +210,17 @@
 
 </div>
 
+        <script>
+            if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", function(user) {
+                if (!user) {
+                window.netlifyIdentity.on("login", function() {
+                    document.location.href = "/admin/";
+                });
+                }
+            });
+            }
+        </script>
         <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
         <script type="text/javascript" src="javascript/libs/slick.js"></script>	
         <script>
