@@ -8,3 +8,21 @@ publish_mode: editorial_workflow
 # These lines should *not* be indented
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - label: "Pages"
+  name: "pages"
+  files:
+    - label: "Events Page"
+      name: "events"
+      file: "site/content/events.md"
+      fields:
+        - {label: Title, name: title, widget: string}
+        - {label: Intro, name: intro, widget: markdown}
+        - label: Team
+          name: team
+          widget: list
+          fields:
+            - {label: Name, name: name, widget: string}
+            - {label: Position, name: position, widget: string}
+            - {label: Photo, name: photo, widget: image}
