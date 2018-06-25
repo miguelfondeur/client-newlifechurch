@@ -18,6 +18,6 @@ collections:
         file: "/content/events.md"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
+          - {label: Header, name: header, widget: string}
           - {name: Body, label: body, widget: markdown}
           
