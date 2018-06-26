@@ -6009,3 +6009,81 @@ LOG:   2018/06/25 01:23:52 2018-06-25 01:23:52.078 -0400
 LOG:   2018/06/25 01:23:53 
 Static file changes detected
 LOG:   2018/06/25 01:23:53 2018-06-25 01:23:53.078 -0400
+LOG:   2018/06/26 08:33:01 adding created directory to watchlist /Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/sections
+LOG:   2018/06/26 08:33:01 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:33:01 2018-06-26 08:33:01.407 -0400
+WARN 2018/06/26 08:33:01 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:33:01 Total in 13 ms
+LOG:   2018/06/26 08:33:12 adding created directory to watchlist /Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/section
+LOG:   2018/06/26 08:33:12 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:33:12 2018-06-26 08:33:12.402 -0400
+WARN 2018/06/26 08:33:12 No translation bundle found for default language "en"
+WARN 2018/06/26 08:33:12 Translation func for language en not found, use default.
+WARN 2018/06/26 08:33:12 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/26 08:33:12 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:33:12 Total in 58 ms
+LOG:   2018/06/26 08:33:36 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:33:36 2018-06-26 08:33:36.401 -0400
+WARN 2018/06/26 08:33:36 No translation bundle found for default language "en"
+WARN 2018/06/26 08:33:36 Translation func for language en not found, use default.
+WARN 2018/06/26 08:33:36 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/26 08:33:36 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:33:36 Total in 94 ms
+LOG:   2018/06/26 08:33:48 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:33:48 2018-06-26 08:33:48.401 -0400
+WARN 2018/06/26 08:33:48 No translation bundle found for default language "en"
+WARN 2018/06/26 08:33:48 Translation func for language en not found, use default.
+WARN 2018/06/26 08:33:48 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/26 08:33:48 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:33:48 Total in 88 ms
+LOG:   2018/06/26 08:34:18 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:34:18 2018-06-26 08:34:18.398 -0400
+WARN 2018/06/26 08:34:18 No translation bundle found for default language "en"
+WARN 2018/06/26 08:34:18 Translation func for language en not found, use default.
+WARN 2018/06/26 08:34:18 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/26 08:34:18 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:34:18 Total in 13 ms
+LOG:   2018/06/26 08:34:19 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:34:19 2018-06-26 08:34:19.403 -0400
+WARN 2018/06/26 08:34:19 No translation bundle found for default language "en"
+WARN 2018/06/26 08:34:19 Translation func for language en not found, use default.
+WARN 2018/06/26 08:34:19 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/26 08:34:19 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:34:19 Total in 16 ms
+LOG:   2018/06/26 08:36:27 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:36:27 2018-06-26 08:36:27.397 -0400
+WARN 2018/06/26 08:36:27 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:36:27 Total in 3 ms
+LOG:   2018/06/26 08:36:28 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:36:28 2018-06-26 08:36:28.401 -0400
+WARN 2018/06/26 08:36:28 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:36:28 Total in 14 ms
+LOG:   2018/06/26 08:36:39 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:36:39 2018-06-26 08:36:39.395 -0400
+WARN 2018/06/26 08:36:39 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:36:39 Total in 8 ms
+LOG:   2018/06/26 08:37:01 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:37:01 2018-06-26 08:37:01.397 -0400
+WARN 2018/06/26 08:37:01 No translation bundle found for default language "en"
+WARN 2018/06/26 08:37:01 Translation func for language en not found, use default.
+WARN 2018/06/26 08:37:01 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/26 08:37:01 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:37:01 Total in 18 ms
+LOG:   2018/06/26 08:37:02 
+Change detected, rebuilding site
+LOG:   2018/06/26 08:37:02 2018-06-26 08:37:02.397 -0400
+WARN 2018/06/26 08:37:02 No translation bundle found for default language "en"
+WARN 2018/06/26 08:37:02 Translation func for language en not found, use default.
+WARN 2018/06/26 08:37:02 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/26 08:37:02 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/26 08:37:02 Total in 17 ms
