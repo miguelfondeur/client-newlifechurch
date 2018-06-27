@@ -6991,3 +6991,39 @@ WARN 2018/06/27 09:10:26 [en] Unable to locate layout for "taxonomyTerm": [categ
 WARN 2018/06/27 09:10:26 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
 WARN 2018/06/27 09:10:26 [en] Unable to locate layout for "404": [404.html]
 LOG:   2018/06/27 09:10:26 Total in 264 ms
+LOG:   2018/06/27 09:13:15 
+Static file changes detected
+LOG:   2018/06/27 09:13:15 2018-06-27 09:13:15.052 -0400
+LOG:   2018/06/27 18:46:06 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:46:06 2018-06-27 18:46:06.401 -0400
+WARN 2018/06/27 18:46:06 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:46:06 Total in 16 ms
+LOG:   2018/06/27 18:46:07 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:46:07 2018-06-27 18:46:07.401 -0400
+WARN 2018/06/27 18:46:07 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:46:07 Total in 18 ms
+LOG:   2018/06/27 18:46:22 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:46:22 2018-06-27 18:46:22.404 -0400
+WARN 2018/06/27 18:46:22 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:46:22 Total in 14 ms
+LOG:   2018/06/27 18:50:55 
+Static file changes detected
+LOG:   2018/06/27 18:50:55 2018-06-27 18:50:55.392 -0400
+LOG:   2018/06/27 18:51:03 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:51:03 2018-06-27 18:51:03.393 -0400
+WARN 2018/06/27 18:51:03 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:51:03 Total in 3 ms
+LOG:   2018/06/27 18:51:28 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:51:28 2018-06-27 18:51:28.391 -0400
+WARN 2018/06/27 18:51:28 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:51:28 Total in 2 ms
+LOG:   2018/06/27 18:51:29 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:51:29 2018-06-27 18:51:29.393 -0400
+WARN 2018/06/27 18:51:29 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:51:29 Total in 6 ms
