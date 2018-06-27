@@ -7054,3 +7054,25 @@ LOG:   2018/06/27 19:07:19 2018-06-27 19:07:19.735 -0400
 LOG:   2018/06/27 19:07:20 
 Static file changes detected
 LOG:   2018/06/27 19:07:20 2018-06-27 19:07:20.734 -0400
+LOG:   2018/06/27 19:10:57 
+Static file changes detected
+LOG:   2018/06/27 19:10:57 2018-06-27 19:10:57.730 -0400
+LOG:   2018/06/27 19:10:58 
+Static file changes detected
+LOG:   2018/06/27 19:10:58 2018-06-27 19:10:58.729 -0400
+LOG:   2018/06/27 19:12:33 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:12:33 2018-06-27 19:12:33.729 -0400
+WARN 2018/06/27 19:12:33 No translation bundle found for default language "en"
+WARN 2018/06/27 19:12:33 Translation func for language en not found, use default.
+WARN 2018/06/27 19:12:33 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/27 19:12:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:12:33 Total in 23 ms
+LOG:   2018/06/27 19:12:34 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:12:34 2018-06-27 19:12:34.728 -0400
+WARN 2018/06/27 19:12:34 No translation bundle found for default language "en"
+WARN 2018/06/27 19:12:34 Translation func for language en not found, use default.
+WARN 2018/06/27 19:12:34 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/27 19:12:34 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:12:34 Total in 39 ms
