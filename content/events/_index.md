@@ -1,19 +1,10 @@
-{
-	"title": "New Life Baptist Church | Events",
-	"description": "",
-	"header": "Events",
-	"type": "events",
-	"cannonical": "/events.html",
-	"featuredEvents": [
-		{
-			"image": "1",
-			"title": "",
-			"description": ""
-		}
-	],
-	"moreEvents": [
-		{
-			"image": "/images/events/YouthExplosion.jpg"
-		}
-	]
-}
+---
+title: New Life Baptist Church | Events
+header: Events
+Body: <p></p>
+featuredEvents: []
+moreEvents:
+  - image: /images/events/YouthExplosion.jpg
+  - image: /images/uploads/youthexplosion.jpg
+---
+
