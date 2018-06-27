@@ -1,6 +1,6 @@
 {
-  "title": New Life Baptist Church | Upcoming Events
-  "header": Events
+  "title": "New Life Baptist Church | Events",
+  "header": "Events",
   "featuredEvents": [
     {
       "image": "/images/uploads/youthexplosion.jpg"
