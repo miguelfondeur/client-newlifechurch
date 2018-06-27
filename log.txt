@@ -7027,3 +7027,30 @@ Change detected, rebuilding site
 LOG:   2018/06/27 18:51:29 2018-06-27 18:51:29.393 -0400
 WARN 2018/06/27 18:51:29 [en] Unable to locate layout for "404": [404.html]
 LOG:   2018/06/27 18:51:29 Total in 6 ms
+LOG:   2018/06/27 19:04:49 
+Static file changes detected
+LOG:   2018/06/27 19:04:49 2018-06-27 19:04:49.743 -0400
+LOG:   2018/06/27 19:04:49 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:04:49 2018-06-27 19:04:49.744 -0400
+WARN 2018/06/27 19:04:49 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:04:49 Total in 4 ms
+LOG:   2018/06/27 19:05:32 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:05:32 2018-06-27 19:05:32.741 -0400
+WARN 2018/06/27 19:05:32 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:05:32 Total in 3 ms
+LOG:   2018/06/27 19:05:33 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:05:33 2018-06-27 19:05:33.738 -0400
+WARN 2018/06/27 19:05:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:05:33 Total in 9 ms
+LOG:   2018/06/27 19:07:18 
+Static file changes detected
+LOG:   2018/06/27 19:07:18 2018-06-27 19:07:18.738 -0400
+LOG:   2018/06/27 19:07:19 
+Static file changes detected
+LOG:   2018/06/27 19:07:19 2018-06-27 19:07:19.735 -0400
+LOG:   2018/06/27 19:07:20 
+Static file changes detected
+LOG:   2018/06/27 19:07:20 2018-06-27 19:07:20.734 -0400
