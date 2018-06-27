@@ -1,7 +1,10 @@
 ---
 title: New Life Baptist Church | Upcoming Events
 header: Events
-featuredEvents: []
+featuredEvents:
+  -image:
+  -title:
+  -description:
 moreEvents:
   - image: /images/uploads/youthexplosion.jpg
 ---
