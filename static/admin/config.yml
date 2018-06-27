@@ -22,6 +22,6 @@ collections:
           - {label: "Featured Events", name: featuredEvents, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Title", name: "title", widget: "text"},
-              {label: Description, name: "description", widget: "text"}]}
+              {label: "Description", name: "description", widget: "text"}]}
           - {label: "More Events", name: moreEvents, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"}]}
