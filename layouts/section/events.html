@@ -10,21 +10,24 @@
 								
 							<section class="interior-section">
 								<div class="container">
-									<h2>Upcoming Events</h2><br><br>
-									<div class="row">
-										<div class="col-xs-12 col-md-6">		
-											{{ range .products }}
-												<!-- <img src="/images/" class="thumbnail"> -->
-											{{ end }}
-										</div>
-										<div class="col-xs-12 col-md-6">
-											<h4>
-												<!-- Event title -->
-											</h4>
-											<p class="text-justify">
-												<!-- Event description -->
-											</p>
-										</div>
+									<h2>Featured Events</h2><br><br>
+									<div class="row">					
+										{{ range .Params.featuredEvents }}
+											<div class="col-xs-12 col-md-6">
+												<!-- Event Image -->	
+												<img src="{{.image}}" class="thumbnail">
+											</div>
+											<div class="col-xs-12 col-md-6">
+												<h4>
+													<!-- Event title -->
+													{{ .title }}
+												</h4>
+												<p class="text-justify">
+													<!-- Event description -->
+													{{ .description }}
+												</p>
+											</div>
+										{{ end }}
 									</div>
 								</div>
 							</section>
@@ -32,12 +35,11 @@
 								<div class="container">
 									<h2>More Events</h2><br><br>
 									<div class="row">
-										<!-- <div class="col-xs-12 col-md-4">
-											<img class="thumbnail profile-pic" src="/images/events/">
-										</div> -->
-										<div class="col-xs-12 col-md-4">
-											<img class="thumbnail profile-pic" src="/images/events/YouthExplosion.jpg">
-										</div>
+										{{ range .Params.moreEvents }}
+											<div class="col-xs-12 col-md-4">
+													<img class="thumbnail profile-pic" src="{{ .image }}">
+												</div>
+										{{ end }}
 									</div>
 								</div>
 							</section>
