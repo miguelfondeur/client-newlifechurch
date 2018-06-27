@@ -19,7 +19,6 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Header, name: header, widget: string}
-          - {name: Body, label: body, widget: markdown}
           - {label: "Featured Events", name: featuredEvents, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Title", name: "title", widget: "text"},
