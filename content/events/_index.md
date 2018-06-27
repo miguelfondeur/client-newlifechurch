@@ -1,5 +1,5 @@
 ---
-title: New Life Baptist Church | Events
+title: New Life Baptist Church | Upcoming Events
 header: Events
 featuredEvents: []
 moreEvents:
