@@ -15,9 +15,13 @@ collections:
     files:
       - label: "Events Page"
         name: "events"
-        file: "/content/events.md"
+        file: "/content/events/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - {name: body, label: Body, widget: markdown}
-          
+          - {label: Header, name: header, widget: string}
+          - {label: "Featured Events", name: featuredEvents, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Title", name: "title", widget: "text"},
+              {label: Description, name: "description", widget: "text"}]}
+          - {label: "More Events", name: moreEvents, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"}]}
