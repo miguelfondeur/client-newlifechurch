@@ -13,9 +13,9 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Events Page"
+      - label: "Events"
         name: "events"
-        file: "/content/events/_index.md"
+        file: "content/events/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Header, name: header, widget: string}

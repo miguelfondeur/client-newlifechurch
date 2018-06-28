@@ -6991,3 +6991,215 @@ WARN 2018/06/27 09:10:26 [en] Unable to locate layout for "taxonomyTerm": [categ
 WARN 2018/06/27 09:10:26 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
 WARN 2018/06/27 09:10:26 [en] Unable to locate layout for "404": [404.html]
 LOG:   2018/06/27 09:10:26 Total in 264 ms
+LOG:   2018/06/27 09:13:15 
+Static file changes detected
+LOG:   2018/06/27 09:13:15 2018-06-27 09:13:15.052 -0400
+LOG:   2018/06/27 18:46:06 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:46:06 2018-06-27 18:46:06.401 -0400
+WARN 2018/06/27 18:46:06 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:46:06 Total in 16 ms
+LOG:   2018/06/27 18:46:07 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:46:07 2018-06-27 18:46:07.401 -0400
+WARN 2018/06/27 18:46:07 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:46:07 Total in 18 ms
+LOG:   2018/06/27 18:46:22 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:46:22 2018-06-27 18:46:22.404 -0400
+WARN 2018/06/27 18:46:22 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:46:22 Total in 14 ms
+LOG:   2018/06/27 18:50:55 
+Static file changes detected
+LOG:   2018/06/27 18:50:55 2018-06-27 18:50:55.392 -0400
+LOG:   2018/06/27 18:51:03 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:51:03 2018-06-27 18:51:03.393 -0400
+WARN 2018/06/27 18:51:03 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:51:03 Total in 3 ms
+LOG:   2018/06/27 18:51:28 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:51:28 2018-06-27 18:51:28.391 -0400
+WARN 2018/06/27 18:51:28 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:51:28 Total in 2 ms
+LOG:   2018/06/27 18:51:29 
+Change detected, rebuilding site
+LOG:   2018/06/27 18:51:29 2018-06-27 18:51:29.393 -0400
+WARN 2018/06/27 18:51:29 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 18:51:29 Total in 6 ms
+LOG:   2018/06/27 19:04:49 
+Static file changes detected
+LOG:   2018/06/27 19:04:49 2018-06-27 19:04:49.743 -0400
+LOG:   2018/06/27 19:04:49 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:04:49 2018-06-27 19:04:49.744 -0400
+WARN 2018/06/27 19:04:49 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:04:49 Total in 4 ms
+LOG:   2018/06/27 19:05:32 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:05:32 2018-06-27 19:05:32.741 -0400
+WARN 2018/06/27 19:05:32 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:05:32 Total in 3 ms
+LOG:   2018/06/27 19:05:33 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:05:33 2018-06-27 19:05:33.738 -0400
+WARN 2018/06/27 19:05:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:05:33 Total in 9 ms
+LOG:   2018/06/27 19:07:18 
+Static file changes detected
+LOG:   2018/06/27 19:07:18 2018-06-27 19:07:18.738 -0400
+LOG:   2018/06/27 19:07:19 
+Static file changes detected
+LOG:   2018/06/27 19:07:19 2018-06-27 19:07:19.735 -0400
+LOG:   2018/06/27 19:07:20 
+Static file changes detected
+LOG:   2018/06/27 19:07:20 2018-06-27 19:07:20.734 -0400
+LOG:   2018/06/27 19:10:57 
+Static file changes detected
+LOG:   2018/06/27 19:10:57 2018-06-27 19:10:57.730 -0400
+LOG:   2018/06/27 19:10:58 
+Static file changes detected
+LOG:   2018/06/27 19:10:58 2018-06-27 19:10:58.729 -0400
+LOG:   2018/06/27 19:12:33 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:12:33 2018-06-27 19:12:33.729 -0400
+WARN 2018/06/27 19:12:33 No translation bundle found for default language "en"
+WARN 2018/06/27 19:12:33 Translation func for language en not found, use default.
+WARN 2018/06/27 19:12:33 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/27 19:12:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:12:33 Total in 23 ms
+LOG:   2018/06/27 19:12:34 
+Change detected, rebuilding site
+LOG:   2018/06/27 19:12:34 2018-06-27 19:12:34.728 -0400
+WARN 2018/06/27 19:12:34 No translation bundle found for default language "en"
+WARN 2018/06/27 19:12:34 Translation func for language en not found, use default.
+WARN 2018/06/27 19:12:34 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/27 19:12:34 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 19:12:34 Total in 39 ms
+LOG:   2018/06/27 21:00:08 
+Static file changes detected
+LOG:   2018/06/27 21:00:08 2018-06-27 21:00:08.540 -0400
+LOG:   2018/06/27 21:00:09 
+Static file changes detected
+LOG:   2018/06/27 21:00:09 2018-06-27 21:00:09.541 -0400
+LOG:   2018/06/27 21:25:41 
+Change detected, rebuilding site
+LOG:   2018/06/27 21:25:41 2018-06-27 21:25:41.498 -0400
+WARN 2018/06/27 21:25:41 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 21:25:41 Total in 17 ms
+WARN 2018/06/27 21:36:30 No translation bundle found for default language "en"
+WARN 2018/06/27 21:36:30 Translation func for language en not found, use default.
+WARN 2018/06/27 21:36:30 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/27 21:36:30 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/27 21:36:30 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/27 21:36:30 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 21:36:30 Total in 258 ms
+LOG:   2018/06/27 21:55:05 
+Static file changes detected
+LOG:   2018/06/27 21:55:05 2018-06-27 21:55:05.440 -0400
+LOG:   2018/06/27 21:59:05 
+Static file changes detected
+LOG:   2018/06/27 21:59:05 2018-06-27 21:59:05.435 -0400
+LOG:   2018/06/27 21:59:06 
+Static file changes detected
+LOG:   2018/06/27 21:59:06 2018-06-27 21:59:06.435 -0400
+LOG:   2018/06/27 23:26:01 
+Static file changes detected
+LOG:   2018/06/27 23:26:01 2018-06-27 23:26:01.693 -0400
+LOG:   2018/06/27 23:26:21 
+Static file changes detected
+LOG:   2018/06/27 23:26:21 2018-06-27 23:26:21.693 -0400
+LOG:   2018/06/27 23:26:22 
+Static file changes detected
+LOG:   2018/06/27 23:26:22 2018-06-27 23:26:22.689 -0400
+LOG:   2018/06/27 23:38:05 
+Change detected, rebuilding site
+LOG:   2018/06/27 23:38:05 2018-06-27 23:38:05.679 -0400
+WARN 2018/06/27 23:38:05 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 23:38:05 Total in 16 ms
+LOG:   2018/06/28 00:06:14 
+Change detected, rebuilding site
+LOG:   2018/06/28 00:06:14 2018-06-28 00:06:14.060 -0400
+WARN 2018/06/28 00:06:14 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 00:06:14 Total in 4 ms
+LOG:   2018/06/28 00:08:59 
+Static file changes detected
+LOG:   2018/06/28 00:08:59 2018-06-28 00:08:59.051 -0400
+LOG:   2018/06/28 00:12:14 
+Static file changes detected
+LOG:   2018/06/28 00:12:14 2018-06-28 00:12:14.049 -0400
+LOG:   2018/06/28 00:12:15 
+Static file changes detected
+LOG:   2018/06/28 00:12:15 2018-06-28 00:12:15.049 -0400
+LOG:   2018/06/28 00:12:16 
+Static file changes detected
+LOG:   2018/06/28 00:12:16 2018-06-28 00:12:16.049 -0400
+LOG:   2018/06/28 00:12:17 
+Static file changes detected
+LOG:   2018/06/28 00:12:17 2018-06-28 00:12:17.046 -0400
+LOG:   2018/06/28 00:16:39 
+Static file changes detected
+LOG:   2018/06/28 00:16:39 2018-06-28 00:16:39.038 -0400
+LOG:   2018/06/28 00:16:40 
+Static file changes detected
+LOG:   2018/06/28 00:16:40 2018-06-28 00:16:40.038 -0400
+LOG:   2018/06/28 00:19:06 
+Static file changes detected
+LOG:   2018/06/28 00:19:06 2018-06-28 00:19:06.035 -0400
+LOG:   2018/06/28 00:32:17 
+Static file changes detected
+LOG:   2018/06/28 00:32:17 2018-06-28 00:32:17.014 -0400
+LOG:   2018/06/28 00:32:18 
+Static file changes detected
+LOG:   2018/06/28 00:32:18 2018-06-28 00:32:18.012 -0400
+LOG:   2018/06/28 00:32:43 
+Change detected, rebuilding site
+LOG:   2018/06/28 00:32:43 2018-06-28 00:32:43.012 -0400
+WARN 2018/06/28 00:32:43 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 00:32:43 Total in 5 ms
+LOG:   2018/06/28 00:33:10 
+Change detected, rebuilding site
+LOG:   2018/06/28 00:33:10 2018-06-28 00:33:10.009 -0400
+WARN 2018/06/28 00:33:10 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 00:33:10 Total in 7 ms
+WARN 2018/06/28 00:44:50 No translation bundle found for default language "en"
+WARN 2018/06/28 00:44:50 Translation func for language en not found, use default.
+WARN 2018/06/28 00:44:50 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 00:44:50 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 00:44:50 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 00:44:50 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 00:44:50 Total in 243 ms
+WARN 2018/06/28 00:44:57 No translation bundle found for default language "en"
+WARN 2018/06/28 00:44:57 Translation func for language en not found, use default.
+WARN 2018/06/28 00:44:57 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 00:44:57 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 00:44:57 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 00:44:57 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 00:44:57 Total in 104 ms
+LOG:   2018/06/28 00:45:13 
+Change detected, rebuilding site
+LOG:   2018/06/28 00:45:13 2018-06-28 00:45:13.992 -0400
+WARN 2018/06/28 00:45:14 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 00:45:14 Total in 7 ms
+WARN 2018/06/28 00:45:27 No translation bundle found for default language "en"
+WARN 2018/06/28 00:45:27 Translation func for language en not found, use default.
+WARN 2018/06/28 00:45:27 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 00:45:27 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 00:45:27 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 00:45:27 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 00:45:27 Total in 102 ms
+LOG:   2018/06/28 00:47:58 
+Static file changes detected
+LOG:   2018/06/28 00:47:58 2018-06-28 00:47:58.987 -0400
+LOG:   2018/06/28 00:47:59 
+Static file changes detected
+LOG:   2018/06/28 00:47:59 2018-06-28 00:47:59.988 -0400
+LOG:   2018/06/28 00:48:01 
+Static file changes detected
+LOG:   2018/06/28 00:48:01 2018-06-28 00:48:01.987 -0400
+LOG:   2018/06/28 00:49:42 
+Static file changes detected
+LOG:   2018/06/28 00:49:42 2018-06-28 00:49:42.982 -0400
+LOG:   2018/06/28 00:49:43 
+Static file changes detected
+LOG:   2018/06/28 00:49:43 2018-06-28 00:49:43.980 -0400
