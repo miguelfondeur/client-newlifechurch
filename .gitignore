@@ -60,5 +60,5 @@ typings/
 # Vs code config
 .vscode
 
-# Hugo Public Dir
-public
+# Hugo 
+log.txt
