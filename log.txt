@@ -7112,3 +7112,8 @@ LOG:   2018/06/27 23:26:21 2018-06-27 23:26:21.693 -0400
 LOG:   2018/06/27 23:26:22 
 Static file changes detected
 LOG:   2018/06/27 23:26:22 2018-06-27 23:26:22.689 -0400
+LOG:   2018/06/27 23:38:05 
+Change detected, rebuilding site
+LOG:   2018/06/27 23:38:05 2018-06-27 23:38:05.679 -0400
+WARN 2018/06/27 23:38:05 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/27 23:38:05 Total in 16 ms
