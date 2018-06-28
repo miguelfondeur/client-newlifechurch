@@ -15,6 +15,7 @@ collections:
     files:
       - label: "Events"
         name: "events"
+        format: "json-formatter"
         file: "content/events/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
