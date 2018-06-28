@@ -1,7 +1,6 @@
 ---
-title: New Life Baptist Church | Events
+title: New Life Baptist Church | Upcoming Events
 header: Events
-type: events
 featuredEvents:
   - description: >-
       Bring your kids for a night of fun and worship July 24th at 7pm. There
