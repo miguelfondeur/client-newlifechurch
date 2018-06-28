@@ -7,9 +7,6 @@
     "start": "hugo server & gulp",
     "build": "hugo"
   },
-  "dependencies": {
-    "serve-favicon": "~2.4.2"
-  },
   "devDependencies": {
     "cssnano": "^3.10.0",
     "gulp": "^3.9.1",
