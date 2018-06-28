@@ -12,10 +12,10 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections:
   - label: "Pages"
     name: "pages"
+    format: "json-formatter"
     files:
       - label: "Events"
         name: "events"
-        format: "json-formatter"
         file: "content/events/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
