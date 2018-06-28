@@ -1,5 +1,5 @@
 {
-"title": "New Life Baptist Church | Upcoming Events",
+"title": "New Life Baptist Church | Events",
   "header": "Events",
   "featuredEvents": [
     {
