@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: Block-Digital-Team/client-newlifechurch
   branch: master
 
 # This line should *not* be indented
@@ -14,15 +13,11 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Events"
+      - label: "Events Page"
         name: "events"
-        file: "/content/events/_index.md"
+        file: "/content/events.md"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Header, name: header, widget: string}
-          - {label: "Featured Events", name: featuredEvents, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Title", name: "title", widget: "text"},
-              {label: Description, name: "description", widget: "text"} ]}
-          - {label: "More Events", name: moreEvents, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"} ]}
+          - {label: Intro, name: intro, widget: markdown}
+          - {name: body, label: Body, widget: markdown}
+          
