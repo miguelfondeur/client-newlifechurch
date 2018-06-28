@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: Block-Digital-Team/client-newlifechurch
   branch: master
 
 # This line should *not* be indented
