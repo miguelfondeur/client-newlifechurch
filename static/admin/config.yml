@@ -13,7 +13,7 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Events Page"
+      - label: "Events"
         name: "events"
         file: "content/events/_index.md"
         fields:
