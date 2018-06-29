@@ -26,3 +26,12 @@ collections:
             {label: "Description", name: "description", widget: "text"}]}
           - {label: "More Events", name: moreEvents, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"}]}
+      - label: "Homepage"
+        name: "homepage"
+        file: "content/_index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Header, name: header, widget: string}
+          - {label: "Homepage Slider", name: homepageSlider, widget: list, fields: [
+            {label: "Image", name: "image", widget: "image"},
+            {label: "Link", name: "link", widget: "text"}]}

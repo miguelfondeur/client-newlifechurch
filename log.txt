@@ -7203,3 +7203,564 @@ LOG:   2018/06/28 00:49:42 2018-06-28 00:49:42.982 -0400
 LOG:   2018/06/28 00:49:43 
 Static file changes detected
 LOG:   2018/06/28 00:49:43 2018-06-28 00:49:43.980 -0400
+LOG:   2018/06/28 21:36:26 
+Static file changes detected
+LOG:   2018/06/28 21:36:26 2018-06-28 21:36:26.512 -0400
+LOG:   2018/06/28 21:36:26 
+Change detected, rebuilding site
+LOG:   2018/06/28 21:36:26 2018-06-28 21:36:26.513 -0400
+WARN 2018/06/28 21:36:26 No translation bundle found for default language "en"
+WARN 2018/06/28 21:36:26 Translation func for language en not found, use default.
+WARN 2018/06/28 21:36:26 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 21:36:26 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 21:36:26 Total in 37 ms
+LOG:   2018/06/28 22:03:43 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:03:43 2018-06-28 22:03:43.464 -0400
+ERROR 2018/06/28 22:03:43 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:03:43 Total in 2 ms
+ERROR 2018/06/28 22:03:43 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:03:44 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:03:44 2018-06-28 22:03:44.462 -0400
+ERROR 2018/06/28 22:03:44 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:03:44 Total in 1 ms
+ERROR 2018/06/28 22:03:44 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:05:40 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:05:40 2018-06-28 22:05:40.460 -0400
+ERROR 2018/06/28 22:05:40 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:05:40 Total in 2 ms
+ERROR 2018/06/28 22:05:40 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:05:41 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:05:41 2018-06-28 22:05:41.467 -0400
+ERROR 2018/06/28 22:05:41 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:05:41 Total in 9 ms
+ERROR 2018/06/28 22:05:41 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:05:55 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:05:55 2018-06-28 22:05:55.460 -0400
+WARN 2018/06/28 22:05:55 No translation bundle found for default language "en"
+WARN 2018/06/28 22:05:55 Translation func for language en not found, use default.
+WARN 2018/06/28 22:05:55 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:05:55 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:05:55 Total in 59 ms
+LOG:   2018/06/28 22:05:56 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:05:56 2018-06-28 22:05:56.458 -0400
+WARN 2018/06/28 22:05:56 No translation bundle found for default language "en"
+WARN 2018/06/28 22:05:56 Translation func for language en not found, use default.
+WARN 2018/06/28 22:05:56 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:05:56 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:05:56 Total in 83 ms
+LOG:   2018/06/28 22:07:33 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:07:33 2018-06-28 22:07:33.460 -0400
+WARN 2018/06/28 22:07:33 No translation bundle found for default language "en"
+WARN 2018/06/28 22:07:33 Translation func for language en not found, use default.
+WARN 2018/06/28 22:07:33 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:07:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:07:33 Total in 17 ms
+LOG:   2018/06/28 22:07:51 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:07:51 2018-06-28 22:07:51.458 -0400
+ERROR 2018/06/28 22:07:51 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:07:51 Total in 4 ms
+ERROR 2018/06/28 22:07:51 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:10:35 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:10:35 2018-06-28 22:10:35.454 -0400
+WARN 2018/06/28 22:10:35 No translation bundle found for default language "en"
+WARN 2018/06/28 22:10:35 Translation func for language en not found, use default.
+WARN 2018/06/28 22:10:35 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:10:35 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:29: function "image" not defined
+ERROR 2018/06/28 22:10:35 partials/components/slick-slider.html : template: partials/components/slick-slider.html:29: function "image" not defined
+ERROR 2018/06/28 22:10:35 partials/components/slick-slider.html : template: partials/components/slick-slider.html:29: function "image" not defined
+ERROR 2018/06/28 22:10:35 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:35 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:35 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:10:35 Total in 11 ms
+LOG:   2018/06/28 22:10:36 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:10:36 2018-06-28 22:10:36.452 -0400
+WARN 2018/06/28 22:10:36 No translation bundle found for default language "en"
+WARN 2018/06/28 22:10:36 Translation func for language en not found, use default.
+WARN 2018/06/28 22:10:36 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:10:36 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:29: function "image" not defined
+ERROR 2018/06/28 22:10:36 partials/components/slick-slider.html : template: partials/components/slick-slider.html:29: function "image" not defined
+ERROR 2018/06/28 22:10:36 partials/components/slick-slider.html : template: partials/components/slick-slider.html:29: function "image" not defined
+ERROR 2018/06/28 22:10:36 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:36 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:36 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:10:36 Total in 13 ms
+LOG:   2018/06/28 22:10:49 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:10:49 2018-06-28 22:10:49.454 -0400
+WARN 2018/06/28 22:10:49 No translation bundle found for default language "en"
+WARN 2018/06/28 22:10:49 Translation func for language en not found, use default.
+WARN 2018/06/28 22:10:49 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:10:49 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:10:49 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:10:49 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:10:49 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:49 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:49 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:10:49 Total in 27 ms
+LOG:   2018/06/28 22:10:50 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:10:50 2018-06-28 22:10:50.451 -0400
+WARN 2018/06/28 22:10:50 No translation bundle found for default language "en"
+WARN 2018/06/28 22:10:50 Translation func for language en not found, use default.
+WARN 2018/06/28 22:10:50 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:10:50 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:10:50 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:10:50 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:10:50 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:50 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:10:50 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:10:50 Total in 68 ms
+LOG:   2018/06/28 22:11:28 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:11:28 2018-06-28 22:11:28.451 -0400
+WARN 2018/06/28 22:11:28 No translation bundle found for default language "en"
+WARN 2018/06/28 22:11:28 Translation func for language en not found, use default.
+WARN 2018/06/28 22:11:28 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:11:28 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:28 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:28 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:28 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:11:28 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:11:28 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:11:28 Total in 27 ms
+LOG:   2018/06/28 22:11:29 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:11:29 2018-06-28 22:11:29.448 -0400
+WARN 2018/06/28 22:11:29 No translation bundle found for default language "en"
+WARN 2018/06/28 22:11:29 Translation func for language en not found, use default.
+WARN 2018/06/28 22:11:29 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:11:29 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:29 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:29 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:29 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:11:29 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:11:29 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:11:29 Total in 29 ms
+LOG:   2018/06/28 22:11:30 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:11:30 2018-06-28 22:11:30.453 -0400
+WARN 2018/06/28 22:11:30 No translation bundle found for default language "en"
+WARN 2018/06/28 22:11:30 Translation func for language en not found, use default.
+WARN 2018/06/28 22:11:30 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:11:30 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:30 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:30 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:11:30 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:11:30 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:11:30 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:11:30 Total in 32 ms
+LOG:   2018/06/28 22:13:08 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:13:08 2018-06-28 22:13:08.449 -0400
+ERROR 2018/06/28 22:13:08 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:08 Total in 2 ms
+ERROR 2018/06/28 22:13:08 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:09 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:13:09 2018-06-28 22:13:09.450 -0400
+ERROR 2018/06/28 22:13:09 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:09 Total in 2 ms
+ERROR 2018/06/28 22:13:09 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:10 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:13:10 2018-06-28 22:13:10.446 -0400
+ERROR 2018/06/28 22:13:10 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:10 Total in 1 ms
+ERROR 2018/06/28 22:13:10 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:11 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:13:11 2018-06-28 22:13:11.446 -0400
+ERROR 2018/06/28 22:13:11 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:11 Total in 2 ms
+ERROR 2018/06/28 22:13:11 Failed to rebuild site: failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:25 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:13:25 2018-06-28 22:13:25.446 -0400
+WARN 2018/06/28 22:13:25 No translation bundle found for default language "en"
+WARN 2018/06/28 22:13:25 Translation func for language en not found, use default.
+WARN 2018/06/28 22:13:25 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:13:25 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:13:25 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:13:25 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:13:25 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:13:25 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:13:25 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:13:25 Total in 12 ms
+WARN 2018/06/28 22:13:41 No translation bundle found for default language "en"
+WARN 2018/06/28 22:13:41 Translation func for language en not found, use default.
+WARN 2018/06/28 22:13:41 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:13:41 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:13:41 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:13:41 failed to parse page metadata for "_index.md": invalid character '}' looking for beginning of object key string
+LOG:   2018/06/28 22:13:41 Total in 65 ms
+WARN 2018/06/28 22:14:32 No translation bundle found for default language "en"
+WARN 2018/06/28 22:14:32 Translation func for language en not found, use default.
+WARN 2018/06/28 22:14:32 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:14:32 Failed to add template "partials/components/slick-slider.html" in path "/Users/Miguel/Block-Digital/Clients/client-newlifechurch/layouts/partials/components/slick-slider.html": template: partials/components/slick-slider.html:8: function "image" not defined
+ERROR 2018/06/28 22:14:32 partials/components/slick-slider.html : template: partials/components/slick-slider.html:8: function "image" not defined
+WARN 2018/06/28 22:14:32 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+ERROR 2018/06/28 22:14:32 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:14:32 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:14:32 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 22:14:32 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:14:32 Total in 60 ms
+WARN 2018/06/28 22:14:32 Skip dataDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/data: no such file or directory
+WARN 2018/06/28 22:14:32 Skip i18nDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/i18n: no such file or directory
+LOG:   2018/06/28 22:14:59 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:14:59 2018-06-28 22:14:59.805 -0400
+ERROR 2018/06/28 22:14:59 Error while rendering "home" in "": template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:14:59 template: index.html:39:15: executing "index.html" at <partial "components/...>: error calling partial: template: "partials/components/slick-slider.html" is an incomplete or empty template
+WARN 2018/06/28 22:14:59 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:14:59 Total in 4 ms
+LOG:   2018/06/28 22:15:36 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:15:36 2018-06-28 22:15:36.807 -0400
+WARN 2018/06/28 22:15:36 No translation bundle found for default language "en"
+WARN 2018/06/28 22:15:36 Translation func for language en not found, use default.
+WARN 2018/06/28 22:15:36 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:15:36 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:15:36 Total in 10 ms
+LOG:   2018/06/28 22:15:37 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:15:37 2018-06-28 22:15:37.802 -0400
+WARN 2018/06/28 22:15:37 No translation bundle found for default language "en"
+WARN 2018/06/28 22:15:37 Translation func for language en not found, use default.
+WARN 2018/06/28 22:15:37 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:15:37 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:15:37 Total in 10 ms
+LOG:   2018/06/28 22:16:29 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:16:29 2018-06-28 22:16:29.805 -0400
+WARN 2018/06/28 22:16:29 No translation bundle found for default language "en"
+WARN 2018/06/28 22:16:29 Translation func for language en not found, use default.
+WARN 2018/06/28 22:16:29 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:16:29 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:16:29 Total in 10 ms
+LOG:   2018/06/28 22:16:59 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:16:59 2018-06-28 22:16:59.802 -0400
+WARN 2018/06/28 22:16:59 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:16:59 Total in 2 ms
+LOG:   2018/06/28 22:17:00 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:17:00 2018-06-28 22:17:00.802 -0400
+WARN 2018/06/28 22:17:00 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:17:00 Total in 3 ms
+WARN 2018/06/28 22:17:33 No translation bundle found for default language "en"
+WARN 2018/06/28 22:17:33 Translation func for language en not found, use default.
+WARN 2018/06/28 22:17:33 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:17:33 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 22:17:33 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 22:17:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:17:33 Total in 58 ms
+WARN 2018/06/28 22:17:33 Skip dataDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/data: no such file or directory
+WARN 2018/06/28 22:17:33 Skip i18nDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/i18n: no such file or directory
+LOG:   2018/06/28 22:17:49 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:17:49 2018-06-28 22:17:49.245 -0400
+WARN 2018/06/28 22:17:49 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:17:49 Total in 3 ms
+LOG:   2018/06/28 22:19:52 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:19:52 2018-06-28 22:19:52.244 -0400
+WARN 2018/06/28 22:19:52 No translation bundle found for default language "en"
+WARN 2018/06/28 22:19:52 Translation func for language en not found, use default.
+WARN 2018/06/28 22:19:52 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:19:52 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:19:52 Total in 9 ms
+LOG:   2018/06/28 22:19:53 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:19:53 2018-06-28 22:19:53.244 -0400
+WARN 2018/06/28 22:19:53 No translation bundle found for default language "en"
+WARN 2018/06/28 22:19:53 Translation func for language en not found, use default.
+WARN 2018/06/28 22:19:53 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:19:53 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:19:53 Total in 13 ms
+LOG:   2018/06/28 22:20:13 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:20:13 2018-06-28 22:20:13.244 -0400
+WARN 2018/06/28 22:20:13 No translation bundle found for default language "en"
+WARN 2018/06/28 22:20:13 Translation func for language en not found, use default.
+WARN 2018/06/28 22:20:13 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:20:13 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:20:13 Total in 11 ms
+LOG:   2018/06/28 22:20:14 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:20:14 2018-06-28 22:20:14.245 -0400
+WARN 2018/06/28 22:20:14 No translation bundle found for default language "en"
+WARN 2018/06/28 22:20:14 Translation func for language en not found, use default.
+WARN 2018/06/28 22:20:14 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:20:14 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:20:14 Total in 13 ms
+LOG:   2018/06/28 22:25:51 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:25:51 2018-06-28 22:25:51.236 -0400
+WARN 2018/06/28 22:25:51 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:25:51 Total in 2 ms
+LOG:   2018/06/28 22:25:52 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:25:52 2018-06-28 22:25:52.231 -0400
+WARN 2018/06/28 22:25:52 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:25:52 Total in 2 ms
+LOG:   2018/06/28 22:26:41 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:26:41 2018-06-28 22:26:41.235 -0400
+WARN 2018/06/28 22:26:41 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:26:41 Total in 3 ms
+LOG:   2018/06/28 22:26:42 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:26:42 2018-06-28 22:26:42.233 -0400
+WARN 2018/06/28 22:26:42 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:26:42 Total in 1 ms
+LOG:   2018/06/28 22:26:43 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:26:43 2018-06-28 22:26:43.230 -0400
+WARN 2018/06/28 22:26:43 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:26:43 Total in 1 ms
+LOG:   2018/06/28 22:27:12 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:27:12 2018-06-28 22:27:12.230 -0400
+WARN 2018/06/28 22:27:12 No translation bundle found for default language "en"
+WARN 2018/06/28 22:27:12 Translation func for language en not found, use default.
+WARN 2018/06/28 22:27:12 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:27:12 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:27:12 Total in 11 ms
+LOG:   2018/06/28 22:27:13 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:27:13 2018-06-28 22:27:13.234 -0400
+WARN 2018/06/28 22:27:13 No translation bundle found for default language "en"
+WARN 2018/06/28 22:27:13 Translation func for language en not found, use default.
+WARN 2018/06/28 22:27:13 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:27:13 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:27:13 Total in 13 ms
+LOG:   2018/06/28 22:27:50 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:27:50 2018-06-28 22:27:50.232 -0400
+WARN 2018/06/28 22:27:50 No translation bundle found for default language "en"
+WARN 2018/06/28 22:27:50 Translation func for language en not found, use default.
+WARN 2018/06/28 22:27:50 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:27:50 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:27:50 Total in 12 ms
+LOG:   2018/06/28 22:27:51 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:27:51 2018-06-28 22:27:51.233 -0400
+WARN 2018/06/28 22:27:51 No translation bundle found for default language "en"
+WARN 2018/06/28 22:27:51 Translation func for language en not found, use default.
+WARN 2018/06/28 22:27:51 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:27:51 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:27:51 Total in 12 ms
+WARN 2018/06/28 22:28:16 No translation bundle found for default language "en"
+WARN 2018/06/28 22:28:16 Translation func for language en not found, use default.
+WARN 2018/06/28 22:28:16 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:28:16 [en] Unable to locate layout for "taxonomyTerm": [categories/category.terms.en.html.html theme/categories/category.terms.en.html.html categories/terms.en.html.html theme/categories/terms.en.html.html categories/list.en.html.html theme/categories/list.en.html.html categories/category.terms.html.html theme/categories/category.terms.html.html categories/terms.html.html theme/categories/terms.html.html categories/list.html.html theme/categories/list.html.html categories/category.terms.en.html theme/categories/category.terms.en.html categories/terms.en.html theme/categories/terms.en.html categories/list.en.html theme/categories/list.en.html categories/category.terms.html theme/categories/category.terms.html categories/terms.html theme/categories/terms.html categories/list.html theme/categories/list.html taxonomy/category.terms.en.html.html theme/taxonomy/category.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/category.terms.html.html theme/taxonomy/category.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/category.terms.en.html theme/taxonomy/category.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/category.terms.html theme/taxonomy/category.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html category/category.terms.en.html.html theme/category/category.terms.en.html.html category/terms.en.html.html theme/category/terms.en.html.html category/list.en.html.html theme/category/list.en.html.html category/category.terms.html.html theme/category/category.terms.html.html category/terms.html.html theme/category/terms.html.html category/list.html.html theme/category/list.html.html category/category.terms.en.html theme/category/category.terms.en.html category/terms.en.html theme/category/terms.en.html category/list.en.html theme/category/list.en.html category/category.terms.html theme/category/category.terms.html category/terms.html theme/category/terms.html category/list.html theme/category/list.html _default/category.terms.en.html.html theme/_default/category.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/category.terms.html.html theme/_default/category.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/category.terms.en.html theme/_default/category.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/category.terms.html theme/_default/category.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 22:28:16 [en] Unable to locate layout for "taxonomyTerm": [tags/tag.terms.en.html.html theme/tags/tag.terms.en.html.html tags/terms.en.html.html theme/tags/terms.en.html.html tags/list.en.html.html theme/tags/list.en.html.html tags/tag.terms.html.html theme/tags/tag.terms.html.html tags/terms.html.html theme/tags/terms.html.html tags/list.html.html theme/tags/list.html.html tags/tag.terms.en.html theme/tags/tag.terms.en.html tags/terms.en.html theme/tags/terms.en.html tags/list.en.html theme/tags/list.en.html tags/tag.terms.html theme/tags/tag.terms.html tags/terms.html theme/tags/terms.html tags/list.html theme/tags/list.html taxonomy/tag.terms.en.html.html theme/taxonomy/tag.terms.en.html.html taxonomy/terms.en.html.html theme/taxonomy/terms.en.html.html taxonomy/list.en.html.html theme/taxonomy/list.en.html.html taxonomy/tag.terms.html.html theme/taxonomy/tag.terms.html.html taxonomy/terms.html.html theme/taxonomy/terms.html.html taxonomy/list.html.html theme/taxonomy/list.html.html taxonomy/tag.terms.en.html theme/taxonomy/tag.terms.en.html taxonomy/terms.en.html theme/taxonomy/terms.en.html taxonomy/list.en.html theme/taxonomy/list.en.html taxonomy/tag.terms.html theme/taxonomy/tag.terms.html taxonomy/terms.html theme/taxonomy/terms.html taxonomy/list.html theme/taxonomy/list.html tag/tag.terms.en.html.html theme/tag/tag.terms.en.html.html tag/terms.en.html.html theme/tag/terms.en.html.html tag/list.en.html.html theme/tag/list.en.html.html tag/tag.terms.html.html theme/tag/tag.terms.html.html tag/terms.html.html theme/tag/terms.html.html tag/list.html.html theme/tag/list.html.html tag/tag.terms.en.html theme/tag/tag.terms.en.html tag/terms.en.html theme/tag/terms.en.html tag/list.en.html theme/tag/list.en.html tag/tag.terms.html theme/tag/tag.terms.html tag/terms.html theme/tag/terms.html tag/list.html theme/tag/list.html _default/tag.terms.en.html.html theme/_default/tag.terms.en.html.html _default/terms.en.html.html theme/_default/terms.en.html.html _default/list.en.html.html theme/_default/list.en.html.html _default/tag.terms.html.html theme/_default/tag.terms.html.html _default/terms.html.html theme/_default/terms.html.html _default/list.html.html theme/_default/list.html.html _default/tag.terms.en.html theme/_default/tag.terms.en.html _default/terms.en.html theme/_default/terms.en.html _default/list.en.html theme/_default/list.en.html _default/tag.terms.html theme/_default/tag.terms.html _default/terms.html theme/_default/terms.html _default/list.html theme/_default/list.html]
+WARN 2018/06/28 22:28:16 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:28:16 Total in 61 ms
+WARN 2018/06/28 22:28:16 Skip dataDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/data: no such file or directory
+WARN 2018/06/28 22:28:16 Skip i18nDir: lstat /Users/Miguel/Block-Digital/Clients/client-newlifechurch/i18n: no such file or directory
+LOG:   2018/06/28 22:29:27 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:29:27 2018-06-28 22:29:27.882 -0400
+WARN 2018/06/28 22:29:27 No translation bundle found for default language "en"
+WARN 2018/06/28 22:29:27 Translation func for language en not found, use default.
+WARN 2018/06/28 22:29:27 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:29:27 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:29:27 Total in 12 ms
+LOG:   2018/06/28 22:30:07 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:30:07 2018-06-28 22:30:07.886 -0400
+WARN 2018/06/28 22:30:07 No translation bundle found for default language "en"
+WARN 2018/06/28 22:30:07 Translation func for language en not found, use default.
+WARN 2018/06/28 22:30:07 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:30:07 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:30:07 Total in 10 ms
+LOG:   2018/06/28 22:31:00 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:31:00 2018-06-28 22:31:00.880 -0400
+WARN 2018/06/28 22:31:00 No translation bundle found for default language "en"
+WARN 2018/06/28 22:31:00 Translation func for language en not found, use default.
+WARN 2018/06/28 22:31:00 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:31:00 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:31:00 Total in 13 ms
+LOG:   2018/06/28 22:31:01 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:31:01 2018-06-28 22:31:01.882 -0400
+WARN 2018/06/28 22:31:01 No translation bundle found for default language "en"
+WARN 2018/06/28 22:31:01 Translation func for language en not found, use default.
+WARN 2018/06/28 22:31:01 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:31:01 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:31:01 Total in 13 ms
+LOG:   2018/06/28 22:34:21 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:34:21 2018-06-28 22:34:21.878 -0400
+WARN 2018/06/28 22:34:21 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:34:21 Total in 3 ms
+LOG:   2018/06/28 22:34:22 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:34:22 2018-06-28 22:34:22.879 -0400
+WARN 2018/06/28 22:34:22 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:34:22 Total in 2 ms
+LOG:   2018/06/28 22:34:47 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:34:47 2018-06-28 22:34:47.875 -0400
+WARN 2018/06/28 22:34:47 No translation bundle found for default language "en"
+WARN 2018/06/28 22:34:47 Translation func for language en not found, use default.
+WARN 2018/06/28 22:34:47 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:34:47 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:34:47 Total in 13 ms
+LOG:   2018/06/28 22:34:49 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:34:49 2018-06-28 22:34:49.877 -0400
+WARN 2018/06/28 22:34:49 No translation bundle found for default language "en"
+WARN 2018/06/28 22:34:49 Translation func for language en not found, use default.
+WARN 2018/06/28 22:34:49 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:34:49 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:34:49 Total in 12 ms
+LOG:   2018/06/28 22:35:54 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:35:54 2018-06-28 22:35:54.870 -0400
+WARN 2018/06/28 22:35:54 No translation bundle found for default language "en"
+WARN 2018/06/28 22:35:54 Translation func for language en not found, use default.
+WARN 2018/06/28 22:35:54 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:35:54 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:35:54 Total in 10 ms
+LOG:   2018/06/28 22:35:55 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:35:55 2018-06-28 22:35:55.870 -0400
+WARN 2018/06/28 22:35:55 No translation bundle found for default language "en"
+WARN 2018/06/28 22:35:55 Translation func for language en not found, use default.
+WARN 2018/06/28 22:35:55 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:35:55 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:35:55 Total in 12 ms
+LOG:   2018/06/28 22:36:00 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:36:00 2018-06-28 22:36:00.872 -0400
+WARN 2018/06/28 22:36:00 No translation bundle found for default language "en"
+WARN 2018/06/28 22:36:00 Translation func for language en not found, use default.
+WARN 2018/06/28 22:36:00 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:36:00 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:36:00 Total in 10 ms
+LOG:   2018/06/28 22:36:01 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:36:01 2018-06-28 22:36:01.871 -0400
+WARN 2018/06/28 22:36:01 No translation bundle found for default language "en"
+WARN 2018/06/28 22:36:01 Translation func for language en not found, use default.
+WARN 2018/06/28 22:36:01 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:36:01 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:36:01 Total in 9 ms
+LOG:   2018/06/28 22:36:06 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:36:06 2018-06-28 22:36:06.870 -0400
+WARN 2018/06/28 22:36:06 No translation bundle found for default language "en"
+WARN 2018/06/28 22:36:06 Translation func for language en not found, use default.
+WARN 2018/06/28 22:36:06 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:36:06 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:36:06 Total in 13 ms
+LOG:   2018/06/28 22:38:33 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:38:33 2018-06-28 22:38:33.871 -0400
+WARN 2018/06/28 22:38:33 No translation bundle found for default language "en"
+WARN 2018/06/28 22:38:33 Translation func for language en not found, use default.
+WARN 2018/06/28 22:38:33 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:38:33 Error while rendering "home" in "": template: index.html:38:15: executing "index.html" at <partial "components/...>: error calling partial: template: partials/components/slick-slider.html:6:23: executing "partials/components/slick-slider.html" at <.Params.homepageslid...>: can't evaluate field Params in type []interface {}
+WARN 2018/06/28 22:38:33 template: index.html:38:15: executing "index.html" at <partial "components/...>: error calling partial: template: partials/components/slick-slider.html:6:23: executing "partials/components/slick-slider.html" at <.Params.homepageslid...>: can't evaluate field Params in type []interface {}
+WARN 2018/06/28 22:38:33 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:38:33 Total in 11 ms
+LOG:   2018/06/28 22:38:34 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:38:34 2018-06-28 22:38:34.866 -0400
+WARN 2018/06/28 22:38:34 No translation bundle found for default language "en"
+WARN 2018/06/28 22:38:34 Translation func for language en not found, use default.
+WARN 2018/06/28 22:38:34 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:38:34 Error while rendering "home" in "": template: index.html:38:15: executing "index.html" at <partial "components/...>: error calling partial: template: partials/components/slick-slider.html:6:23: executing "partials/components/slick-slider.html" at <.Params.homepageslid...>: can't evaluate field Params in type []interface {}
+WARN 2018/06/28 22:38:34 template: index.html:38:15: executing "index.html" at <partial "components/...>: error calling partial: template: partials/components/slick-slider.html:6:23: executing "partials/components/slick-slider.html" at <.Params.homepageslid...>: can't evaluate field Params in type []interface {}
+WARN 2018/06/28 22:38:34 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:38:34 Total in 10 ms
+LOG:   2018/06/28 22:39:26 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:39:26 2018-06-28 22:39:26.868 -0400
+WARN 2018/06/28 22:39:26 No translation bundle found for default language "en"
+WARN 2018/06/28 22:39:26 Translation func for language en not found, use default.
+WARN 2018/06/28 22:39:26 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:39:26 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:39:26 Total in 12 ms
+LOG:   2018/06/28 22:39:27 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:39:27 2018-06-28 22:39:27.866 -0400
+WARN 2018/06/28 22:39:27 No translation bundle found for default language "en"
+WARN 2018/06/28 22:39:27 Translation func for language en not found, use default.
+WARN 2018/06/28 22:39:27 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:39:27 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:39:27 Total in 13 ms
+LOG:   2018/06/28 22:40:32 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:40:32 2018-06-28 22:40:32.863 -0400
+WARN 2018/06/28 22:40:32 No translation bundle found for default language "en"
+WARN 2018/06/28 22:40:32 Translation func for language en not found, use default.
+WARN 2018/06/28 22:40:32 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+ERROR 2018/06/28 22:40:32 Error while rendering "home" in "": template: index.html:38:15: executing "index.html" at <partial "components/...>: error calling partial: Partial "components/slick-slider" not found
+WARN 2018/06/28 22:40:32 template: index.html:38:15: executing "index.html" at <partial "components/...>: error calling partial: Partial "components/slick-slider" not found
+WARN 2018/06/28 22:40:32 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:40:32 Total in 11 ms
+LOG:   2018/06/28 22:41:21 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:41:21 2018-06-28 22:41:21.862 -0400
+WARN 2018/06/28 22:41:21 No translation bundle found for default language "en"
+WARN 2018/06/28 22:41:21 Translation func for language en not found, use default.
+WARN 2018/06/28 22:41:21 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:41:21 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:41:21 Total in 10 ms
+LOG:   2018/06/28 22:41:22 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:41:22 2018-06-28 22:41:22.861 -0400
+WARN 2018/06/28 22:41:22 No translation bundle found for default language "en"
+WARN 2018/06/28 22:41:22 Translation func for language en not found, use default.
+WARN 2018/06/28 22:41:22 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:41:22 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:41:22 Total in 8 ms
+LOG:   2018/06/28 22:45:41 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:45:41 2018-06-28 22:45:41.858 -0400
+WARN 2018/06/28 22:45:41 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:45:41 Total in 3 ms
+LOG:   2018/06/28 22:45:42 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:45:42 2018-06-28 22:45:42.855 -0400
+WARN 2018/06/28 22:45:42 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:45:42 Total in 1 ms
+LOG:   2018/06/28 22:47:17 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:47:17 2018-06-28 22:47:17.856 -0400
+WARN 2018/06/28 22:47:17 No translation bundle found for default language "en"
+WARN 2018/06/28 22:47:17 Translation func for language en not found, use default.
+WARN 2018/06/28 22:47:17 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:47:17 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:47:17 Total in 10 ms
+LOG:   2018/06/28 22:47:35 
+Change detected, rebuilding site
+LOG:   2018/06/28 22:47:35 2018-06-28 22:47:35.853 -0400
+WARN 2018/06/28 22:47:35 No translation bundle found for default language "en"
+WARN 2018/06/28 22:47:35 Translation func for language en not found, use default.
+WARN 2018/06/28 22:47:35 i18n not initialized, check that you have language file (in i18n) that matches the site language or the default language.
+WARN 2018/06/28 22:47:35 [en] Unable to locate layout for "404": [404.html]
+LOG:   2018/06/28 22:47:35 Total in 8 ms
+LOG:   2018/06/28 22:55:03 
+Static file changes detected
+LOG:   2018/06/28 22:55:03 2018-06-28 22:55:03.836 -0400
+LOG:   2018/06/28 22:55:04 
+Static file changes detected
+LOG:   2018/06/28 22:55:04 2018-06-28 22:55:04.841 -0400
+LOG:   2018/06/28 22:55:05 
+Static file changes detected
+LOG:   2018/06/28 22:55:05 2018-06-28 22:55:05.836 -0400
