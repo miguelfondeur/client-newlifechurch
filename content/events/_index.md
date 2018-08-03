@@ -3,12 +3,12 @@
   "header": "Events",
   "featuredEvents": [
     {
-      "image": "/images/uploads/kingdom-conference-2018.jpg"
+      "image": "/images/uploads/riverbanks-trip-flyer.jpg"
     }
   ],
   "moreEvents": [
     {
-      "image": "/images/uploads/youthexplosion.jpg"
+      "image": "/images/uploads/riverbanks-trip-flyer.jpg"
     }
   ]
 }
