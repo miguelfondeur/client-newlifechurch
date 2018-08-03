@@ -1,10 +1,14 @@
 {
 "title": "New Life Baptist Church | Events",
   "header": "Events",
-  "featuredEvents": [],
+  "featuredEvents": [
+    {
+      "image": "/images/uploads/riverbanks-trip-flyer.jpg"
+    }
+  ],
   "moreEvents": [
     {
-      "image": "/images/uploads/youthexplosion.jpg"
+      "image": "/images/uploads/riverbanks-trip-flyer.jpg"
     }
   ]
 }
