@@ -1,17 +1,22 @@
 .slider {
     width: 100%;
     max-width: 120rem;
-    margin: 50px auto 7rem;
-    max-height: 61.5rem;
+    margin: 50px auto 70px;
+    max-height: 670px;
     overflow: hidden;
 }
 
-.slick-slide {
-    margin: 0 2rem;
+.slick-slide img {
+    width: 100% !important;
 }
 
-.slick-slide img {
-    width: 100%;
+.slick-slide img.thumbnail-dark {
+    width: calc(100% - 20px) !important;
+}
+
+button.slick-prev:hover,
+button.slick-next:hover {
+    border: none;
 }
 
 .slick-prev:before,

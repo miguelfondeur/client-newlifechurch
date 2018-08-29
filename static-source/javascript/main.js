@@ -25,11 +25,17 @@ $(document).ready(function() {
 	});
 
 	//AUTOSCROLL
-	var scrollLink = $('.scroll');	
-	
+	var scrollLink = $('.scroll');
+	var locationHome = false;	
+	if(window.location.href === '/'){
+		locationHome = true;
+	}
+
 	scrollLink.click(function(e) {	
+		if(locationHome){
+			e.preventDefault();
+		}
 		console.log('scroll');
-		e.preventDefault();
 		$('body,html').animate({
 			scrollTop: $(this.hash).offset().top - 50
 		}, 500 )

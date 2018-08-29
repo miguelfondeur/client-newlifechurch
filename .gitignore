@@ -1,2 +1,8 @@
 node_modules
 
+# Vs code config
+.vscode
+
+# Hugo 
+log.txt
+*/log.txt

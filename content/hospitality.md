@@ -9,12 +9,12 @@
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
-    	<div class="col-md-6">
-				<div class="section-icon with-border">
+    	<div class="col-xs-12 col-md-6">
+				<div class="section-icon with-border" style="margin: 0 auto 40px;">
 					<i class="icon-003-front-of-bus"></i>
 				</div>
 			</div>
-			<div class="col-md-6">
+			<div class="col-xs-12 col-md-6">
 				<h1>Bus Ministry</h1>
 				<p>The Bus Ministry of New Life Baptist Church was the first and most enduring of all ministries started here for the purpose of reaching souls by bringing children and adults to New Life for the purpose of hearing the gospel and teaching them the Word of God.
 				<br>
@@ -27,7 +27,7 @@
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-xs-12 col-md-6">
 				<h1>Hospital Visits</h1>
 				<p>
 					Many a family faced with the serious illness of a loved one in the Hospital ICU has been comforted with the refreshments and literature left by these caring ladies who attend to the area hospitals in an on going effort to let people know that someone cares and is praying for them.
@@ -37,8 +37,8 @@
 					Several times a month, a group of ladies leave the church with their baskets and make the rounds to the area hospitals. Like every ministry of the church, this one also has a singular focus, “OTHERS”.
 				</p>
 			</div>
-			<div class="col-md-6">
-				<div class="section-icon with-border">
+			<div class="col-xs-12 col-md-6">
+				<div class="section-icon with-border" style="margin: 0 auto 40px;">
 					<i class="icon-002-hospital-building"></i>
 				</div>
 			</div>

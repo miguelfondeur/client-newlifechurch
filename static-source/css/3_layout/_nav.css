@@ -7,7 +7,7 @@ nav {
     position: absolute;
     z-index: 5;
     transition: background-color .1s linear;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #bbb;
     text-align: center;
     flex: 0 0 auto;
 }
@@ -103,35 +103,21 @@ nav.site-nav li a:hover + ul, nav.site-nav li a + ul:hover{
 }
 
 nav.site-nav.site-nav-scrolled .logo {
-    color: #fff;
+    background-image: url('/images/newlifelogo_white.png');
+    opacity: .9;
 }
 
 .logo {
-    font-family: 'Montserrat', sans-serif;
+    background-image: url('/images/newlifelogo.png');
+    width: 123px;
+    height: 45px;
     position: absolute;
-    left: 3rem;
-    line-height: 5.4rem;
-    font-size: 2.4rem;
-    width: 13rem;
-    text-align: left;
-    color: rgba(80,17,87,1);
+    left: 30px;
+    background-size: cover;
+    top: 5px;
+    background-repeat: no-repeat;
 }
 
-.logo span {
-    font-family: 'Italianno', cursive;
-    font-size: 4.4rem;
-}
-
-.logo span + span {
-    font-family: 'montserrat', sans-serif;
-    font-size: 1rem;
-    position: absolute;
-    bottom: .8rem;
-    font-weight: 300;
-    text-transform: uppercase;
-    left: 7.7rem;
-    line-height: 1;
-}
 
 @media screen and (max-width: 965px) {
     nav li {

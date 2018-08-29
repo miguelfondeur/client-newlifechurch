@@ -126,3 +126,12 @@ section.interior-section h4 {
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
+
+@media screen and (max-width: 560px) {
+    section h2 {
+        font-size: 3rem;
+    }
+    section.interior-section h4 {
+        font-size: 2rem;
+    }
+}

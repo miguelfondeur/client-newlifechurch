@@ -9,24 +9,44 @@
         {{ partial "layout-nav" }}
 
          <div class="page-container">
-
-            {{ partial "components/slick-slider" }}
-
-             <!--Section About-->
-            <section id="aboutus">
-                <div class="container">
-                    <h2>About</h2>
-                    <h4>Reaching The Lost - Teaching The Found - Sending The Taught</h4>
-                    <div class="col-50 section-block">
-                        <i class="large-icon icon-android-globe"></i>
-                        <div class="section-title">Our Vision</div>
-                        <a class="button" href="/ourvision.html">Learn more</a>
+            
+            <!--Section Welcome-->
+            <section>
+                <div class="container small">
+                    <img src="/images/leadership/pastorSteeleSmall.jpg" style="width:100%;max-width:500px;display:block;margin: 0px auto 60px;padding:15px; background-color: #ddd;">
+                    <h2>New Life Welcomes You!</h2>
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12">
+                            <p class="text-justify">
+                                Welcome to the official web site of the New Life Baptist Church of Concord North Carolina. It is our prayer to be a blessing to you in your Christian Life, and if you are not a Christian, we would like the opportunity to introduce you to the Lord Jesus Christ, who is the heart of this ministry.
+                                <br><br>
+                                New Life Baptist Church is a soul winning and Bible Preaching centered ministry, not respective of skin color or station in life. We strongly believe in the Great Commission and endeavor to reach the lost and minister to the saints in every way we can.
+                            </p>  
+                        </div>
+                        <div class="col-sm-6 col-xs-12">
+                            <p class="text-justify">
+                                The Ministries at New Life are all geared toward these goals. If you are in the Charlotte Metropolitan area, this is our personal invitation for you to visit with us here at New Life Baptist Church. You will find New Life to be a warm friendly place, where everyone is welcome, but as we like to say here, “Come See For Yourself”.
+                            </p>  
+                        </div>
+                        <div class="col-xs-12">
+                            <a class="button" href="/pastor.html">Meet The Pastor</a>
+                        </div>
                     </div>
+                </div>
+            </section>
 
-                    <div class="col-50 section-block">
-                        <i class="large-icon icon-001-people"></i>
-                        <div class="section-title">Our Team</div>
-                        <a class="button" href="/leadership.html">Learn more</a>
+            <!--Section Slider-->
+            <section>
+                <h2 class="no-margin">News</h2>
+                <div class="container">
+                    <div class="regular slider">
+                        {{ range .Params.homepageSlider }}
+                            <div>
+                                <a href="{{ .link }}">
+                                    <img class="thumbnail-dark" src="{{ .image }}" width="100%">
+                                </a>
+                            </div>
+                        {{ end }}
                     </div>
                 </div>
             </section>
@@ -35,30 +55,35 @@
             <section class="bg-primary" id="giving">
                 <div class="container small section-block-lg">
                     <h2 class="section-header_small">Giving</h2>
-                    <h4>For a church to grow, we need help from many people.
-                        <br> Partner with us. Join the mission.
+                    <h4>
+                        We sincerely thank you for your interest in supporting New Life Baptist Church. 
+                        Your contribution allows us to further our mission of<br>
+                        “Reaching the lost, teaching the found, sending the taught”.
                     </h4>
                     <div class="col-100">
-                        <a class="button" href="/">Give Today</a>
+                        <a class="button" href="https://tithe.ly/give?c=269867">Give Today</a>
                     </div>
                 </div>
             </section>
 
-            <!--Section Welcome-->
-            <section>
-                <div class="container small section-block-lg">
-                    <h2>New Life Welcomes You!</h2>
-                    <div class="col-50">
-                        <p>
-                            Welcome to the official web site of the New Life Baptist Church of Concord North Carolina. It is our prayer to be a blessing to you in your Christian Life, and if you are not a Christian, we would like the opportunity to introduce you to the Lord Jesus Christ, who is the heart of this ministry.
-                            <br><br>
-                            New Life Baptist Church is a soul winning and Bible Preaching centered ministry, not respective of skin color or station in life. We strongly believe in the Great Commission and endeavor to reach the lost and minister to the saints in every way we can.
-                        </p>  
-                    </div>
-                    <div class="col-50">
-                        <p>
-                            The Ministries at New Life are all geared toward these goals. If you are in the Charlotte Metropolitan area, this is our personal invitation for you to visit with us here at New Life Baptist Church. You will find New Life to be a warm friendly place, where everyone is welcome, but as we like to say here, “Come See For Yourself”.
-                        </p>  
+             <!--Section About-->
+            <section id="aboutus">
+                <div class="container">
+                    <h2>Our Mission</h2>
+                    <h4>Reaching The Lost - Teaching The Found - Sending The Taught</h4>
+                    
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12 section-block">
+                            <i class="large-icon icon-android-globe"></i>
+                            <div class="section-title">Our Vision</div>
+                            <a class="button" href="/ourvision.html">Learn more</a>
+                        </div>
+
+                        <div class="col-sm-6 col-xs-12 section-block">
+                            <i class="large-icon icon-001-people"></i>
+                            <div class="section-title">Our Team</div>
+                            <a class="button" href="/staff.html">Learn more</a>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -68,27 +93,31 @@
                 <div class="container section-block-lg">
                     <h2 class="section-header_small">Contact Us</h2>
                     <h4>Please reach out to us with any inquiries.</h4>
-                    <div class="col-30">
-                        <div class="icon-round">
-                            <i class="icon-ios-location-outline"></i>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-4">
+                            <div class="icon-round">
+                                <i class="icon-ios-location-outline"></i>
+                            </div>
+                            <p>1281 Biscayne Dr, Concord, NC 28027</p>
                         </div>
-                        <p>1281 Biscayne Dr, Concord, NC 28027</p>
-                    </div>
-                    <div class="col-30">
-                        <div class="icon-round">
-                            <i class="icon-iphone"></i>
+                        <div class="col-xs-12 col-sm-4">
+                            <div class="icon-round">
+                                <i class="icon-iphone"></i>
+                            </div>
+                             <p>704-782-6215</p>
                         </div>
-                         <p>704-702-6215</p>
-                    </div>
-                    <div class="col-30">
-                        <div class="icon-round">
-                            <i class="icon-mail"></i>
+                        <div class="col-xs-12 col-sm-4">
+                            <div class="icon-round">
+                                <i class="icon-mail"></i>
+                            </div>
+                             <p>newlifeconcord@outlook.com</p>
                         </div>
-                         <p>admin@newlifeconcord.com</p>
+                         
                     </div>
+     
 
                     <div class="col-100">
-                        <a class="button blue" href="/contact.html">MORE INFO</a>
+                        <a class="button blue" href="/visit.html">MORE INFO</a>
                     </div>
                 </div>
             </section>
