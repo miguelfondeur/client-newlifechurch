@@ -22,7 +22,7 @@
 							<br>
 							704-782-6215
 							<br>
-							newlifeconcord@outlook.org
+							newlifeconcord@outlook.com
 						</p>
 					</div>
 				</div>
