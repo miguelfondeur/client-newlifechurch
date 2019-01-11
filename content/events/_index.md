@@ -1,6 +1,6 @@
 {
-"title": "New Life Baptist Church | Events and Venues",
-  "header": "Events and Venues",
+"title": "New Life Baptist Church | Events",
+  "header": "Events",
   "featuredEvents": [
     {
       "image": "/images/uploads/daniel-fast450x450.jpg"
