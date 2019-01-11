@@ -3,13 +3,9 @@
   "header": "Events",
   "featuredEvents": [
     {
-      "image": "/images/uploads/riverbanks-trip-flyer.jpg"
+      "image": "/images/uploads/daniel-fast450x450.jpg"
     }
   ],
-  "moreEvents": [
-    {
-      "image": "/images/uploads/riverbanks-trip-flyer.jpg"
-    }
-  ]
+  "moreEvents": []
 }
 
