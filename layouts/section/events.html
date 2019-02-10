@@ -31,18 +31,20 @@
 									</div>
 								</div>
 							</section>
-							<section class="interior-section">
-								<div class="container">
-									<h2>More Events</h2><br><br>
-									<div class="row">
-										{{ range .Params.moreEvents }}
-											<div class="col-xs-12 col-md-4">
-													<img class="thumbnail profile-pic" src="{{ .image }}">
-												</div>
-										{{ end }}
+							{{ with .Params.moreEvents }}
+								<section class="interior-section">
+									<div class="container">
+										<h2>More Events</h2><br><br>
+										<div class="row">
+											{{ range . }}
+												<div class="col-xs-12 col-md-4">
+														<img class="thumbnail profile-pic" src="{{ .image }}">
+													</div>
+											{{ end }}
+										</div>
 									</div>
-								</div>
-							</section>
+								</section>
+							{{ end }}
 							<section class="interior-section">
 								<div class="container">
 									<div class="row">
@@ -63,7 +65,10 @@
 									<div class="row">
 										<div class="col-xs-12 col-md-6">
 											<h4>Our Sanctuary</h4>
-											<p></p>
+											<p>The New Life Sanctuary is not only a place of worship but it is also open to the public for special events.
+												If you are planning a wedding, baptism, or worship concert our sanctuary can fit your needs.
+												Click the button below to reserve the sanctuary for your event. 
+											</p>
 											<a class="button blue" style="margin-bottom: 40px;" href="/venues.html" target="_blank">Reserve Today</a>
 										</div>
 										<div class="col-xs-12 col-md-6">
@@ -80,7 +85,9 @@
 										</div>
 										<div class="col-xs-12 col-md-6">
 											<h4>Sarah Gantt Family Life Center</h4>
-											<p></p>
+											<p>The Family Life Center is a multi purpose venue that has been reserved for meetings, conferences, banquets, and youth events. 
+												The venue includes a spacious main hall, kitchen and restroom facilities. Click the button below to reserve the Life Center for your event. 
+											</p>
 											<a class="button blue" href="/venues.html" target="_blank">Reserve Today</a>
 										</div>
 									</div>
@@ -91,7 +98,10 @@
 									<div class="row">
 										<div class="col-xs-12 col-md-6">
 											<h4>Annie Streater Dream Center</h4>
-											<p></p>
+											<p>The Dream Center is a fully equipped indoor activity center. It offers a full basketball court that has been used for 
+												local basketball team training as well as youth events and birthday parties. The Dream Center also offers a personal fitness
+												gym with professional equipment. Click the button below to reserve the Dream Center for your sports team or event. 
+											</p>
 											<a class="button blue" style="margin-bottom: 40px;" href="/venues.html" target="_blank">Reserve Today</a>
 										</div>
 										<div class="col-xs-12 col-md-6">
