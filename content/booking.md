@@ -10,7 +10,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-8 col-md-6">
-				<p>To request Pastor Steele to speak at your event, please complete the form below.</p>
+				<p>To request Pastor Steele for a speaking/preaching event, please complete the following form.  Note that this form is only a request and not confirmation of his acceptance.  You will receive an email or telephone call regarding the status of your request within one week of the date of submission. Thank you in advance for your invitation.</p>
 				<form name="booking-pastor" method="POST" netlify>
 					<h4>Contact Info</h4>
 					<div class="site-input">
