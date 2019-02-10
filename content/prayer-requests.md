@@ -29,7 +29,7 @@
 						<textarea id="message" rows="4" cols="50" name="message" placeholder="Please describe your prayer request. We'll be praying for you."></textarea>
 					</div>
 					<div data-netlify-recaptcha></div>
-					<button type="submit" class="button blue float-right">Send Prayer Request</button>
+					<button type="submit" class="button blue float-right" style="margin-bottom: 30px;">Send Prayer Request</button>
 				</form>
 			</div>
 			<div class="col-xs-12 col-sm-4 col-md-5 col-md-offset-1">

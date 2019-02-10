@@ -40,7 +40,7 @@
 					</div>
 					<div data-netlify-recaptcha></div>
 					<br><br>
-					<button type="submit" class="button blue float-right">Request Venue</button>
+					<button type="submit" class="button blue float-right" style="margin-bottom: 30px;">Request Venue</button>
 				</form>
 			</div>
 			<div class="col-xs-12 col-sm-4 col-md-5 col-md-offset-1">
