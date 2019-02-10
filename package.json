@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "hugo server & gulp",
+    "dev": "hugo server & gulp",
     "build": "hugo"
   },
   "devDependencies": {

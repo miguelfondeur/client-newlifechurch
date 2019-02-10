@@ -77,104 +77,41 @@
 		</div>
 </nav> 
         <header class="site-header internal-page">
-            <h1>Events</h1>
+            <h1>Venue Booking</h1>
             <i class="icon-ios-arrow-down"></i>
         </header>
         <div class="page-container">
             <div class="page-content">
-								
-							<section class="interior-section">
-								<div class="container">
-									<h2>Featured Event</h2><br><br>
-									<div class="row">					
-										
-											<div class="col-xs-12 col-md-6">
-													
-												<img src="/images/uploads/riverbanks-trip-flyer.jpg" class="thumbnail">
-											</div>
-											<div class="col-xs-12 col-md-6">
-												<h4>
-													
-													
-												</h4>
-												<p class="text-justify">
-													
-													
-												</p>
-											</div>
-										
-									</div>
-								</div>
-							</section>
-							<section class="interior-section">
-								<div class="container">
-									<h2>More Events</h2><br><br>
-									<div class="row">
-										
-											<div class="col-xs-12 col-md-4">
-													<img class="thumbnail profile-pic" src="/images/uploads/riverbanks-trip-flyer.jpg">
-												</div>
-										
-									</div>
-								</div>
-							</section>
-							<section class="interior-section">
-								<div class="container">
-									<div class="row">
-										<div class="col-xs-12 col-md-6">
-											<h4>Girl Scouts</h4>
-											<p class="text-justify">The Girl Scouts meet at New Life Baptist on a regular basis and are supported by the church. If you are interested in having your daughter take part, please download the flyer provided by the Hornets’ Nest Council in Cabarrus County. </p>
-										</div>
-										<div class="col-xs-12 col-md-6">
-											<img src="/images/girlscouts.png" class="img-girlscout">
-										</div>
-									</div>
-								</div>
-							</section>
-							
-							<section class="interior-section">
-								<div class="container">
-									<h2>New Life Venues</h2>
-									<div class="row">
-										<div class="col-xs-12 col-md-6">
-											<h4>Our Sanctuary</h4>
-											<p></p>
-											<a class="button blue" style="margin-bottom: 40px;" href="/venues.html" target="_blank">Reserve Today</a>
-										</div>
-										<div class="col-xs-12 col-md-6">
-											<img src="images/sanctuary.jpg" class="thumbnail">
-										</div>
-									</div>
-								</div>
-							</section>
-							<section class="interior-section">
-								<div class="container">
-									<div class="row">
-										<div class="col-xs-12 col-md-6">
-											<img src="images/wes2.jpg" class="thumbnail">
-										</div>
-										<div class="col-xs-12 col-md-6">
-											<h4>Sarah Gantt Family Life Center</h4>
-											<p></p>
-											<a class="button blue" href="/venues.html" target="_blank">Reserve Today</a>
-										</div>
-									</div>
-								</div>
-							</section>
-							<section class="interior-section">
-								<div class="container">
-									<div class="row">
-										<div class="col-xs-12 col-md-6">
-											<h4>Annie Streater Dream Center</h4>
-											<p></p>
-											<a class="button blue" style="margin-bottom: 40px;" href="/venues.html" target="_blank">Reserve Today</a>
-										</div>
-										<div class="col-xs-12 col-md-6">
-											<img src="images/dreamcenter.jpg" class="thumbnail">
-										</div>
-									</div>
-								</div>
-							</section>
+                <section class="interior-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8 col-md-6">
+                <h4>Book one of our venues</h4>
+                <p>Tell us more about your event</p>
+                <form name="contact" method="POST" netlify>
+                    <div class="site-input">
+                        <label for="name">Your Name <abbr title="required">*</abbr></label>
+                        <input id="name" type="text" name="name" required>
+                    </div>
+                    <div class="site-input">
+                        <label for="email">Your Email <abbr title="required">*</abbr></label>
+                        <input id="email" type="email" name="email" required>
+                    </div>  
+                    <div class="site-input">
+                        <label for="subject">Subject</label>
+                        <input id="subject" type="text" name="subject">
+                    </div>
+                    <div class="site-input">
+                        <label for="message">Your Request</label>
+                        <textarea id="message" rows="4" cols="50" name="message"></textarea>
+                    </div>
+                    <div data-netlify-recaptcha></div>
+                    <button type="submit" class="button blue float-right">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
 
             </div>    
             <footer>
