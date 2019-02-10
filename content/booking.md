@@ -172,6 +172,7 @@
 						</div>
 					</div>
 					<div data-netlify-recaptcha></div>
+					<br><br>
 					<button type="submit" class="button blue float-right">Send Invitation</button>
 				</form>
 			</div>
