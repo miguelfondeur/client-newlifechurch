@@ -57,7 +57,7 @@
 							<div class="site-input">
 								<label for="event-attire">Event Attire:</label>
 								<select id="event-attire" name="event-attire">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="business-casual">Business Casual</option>
 									<option value="casual">Casual</option>
 									<option value="formal">Formal</option>
@@ -68,7 +68,7 @@
 							<div class="site-input">
 								<label for="event-type">Event Type:</label>
 								<select id="event-type" name="event-type">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="anniversary">Anniversary</option>
 									<option value="conference">Conference</option>
 									<option value="revival">Revival</option>
@@ -90,7 +90,7 @@
 							<div class="site-input">
 								<label for="event-public">Is this a Public Event ?</label>
 								<select id="event-public" name="event-public">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="yes">Yes - open to the public</option>
 									<option value="no">No - this event is private</option>
 								</select>
@@ -108,7 +108,7 @@
 							<div class="site-input">
 								<label for="event-video">Will Event Be Recorded or streamed ?</label>
 								<select id="event-video" name="event-video">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="yes">Yes - will be recorded</option>
 									<option value="no">No - will not be recorded</option>
 								</select>
@@ -118,7 +118,7 @@
 							<div class="site-input">
 								<label for="activities-after">Activities Planned after event ?</label>
 								<select id="activities-after" name="activities-after">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="yes">Yes - activities planned for after</option>
 									<option value="no">No - activities not planned</option>
 								</select>
@@ -138,7 +138,7 @@
 							<div class="site-input">
 								<label for="sell-products">Can we display and offer our products at this event?</label>
 								<select id="sell-products" name="sell-products">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="yes">Yes - you may offer your products</option>
 									<option value="no">No - no products will be sold</option>
 								</select>
@@ -148,7 +148,7 @@
 							<div class="site-input">
 								<label for="product-volunteers">If so, will volunteers be available to assist in product sales ?</label>
 								<select id="product-volunteers" name="product-volunteers">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="yes">Yes - we have a visitor support team</option>
 									<option value="no">No - we do not provide visitor support for product sales</option>
 								</select>
@@ -158,7 +158,7 @@
 							<div class="site-input">
 								<label for="financial-gift">Does your church / organizion offer a financial gift or honorarium?</label>
 								<select id="financial-gift" name="financial-gift">
-									<option value="">Click to Select</option>
+									<option>Click to Select</option>
 									<option value="yes">Yes - we provide an honararium to guest speakers</option>
 									<option value="no">No - we cannot provide a finacial gift at this time</option>
 								</select>
