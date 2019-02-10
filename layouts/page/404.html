@@ -1,5 +1,12 @@
 {{ partial "header" }}
-
-    <h1>not found</h1>
-
+    <div class="wrapper">
+        {{ partial "layout-nav" }}
+        <div class="page-container">
+            <div class="page-content">
+                {{ .Content }}
+            </div>    
+            {{ partial "layout-footer" }}
+        </div><!-- .main -->
+    </div><!-- .wrapper -->
+    {{ partial "layout-side-nav" }}
 {{ partial "footer" }} 

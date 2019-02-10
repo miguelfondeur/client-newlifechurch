@@ -1,7 +1,7 @@
 {
 	"title": "New Life Baptist Church | Book Our Venues",
 	"description": "",
-	"header": "Venue Booking",
+	"header": "Request a Venue",
 	"type": "page",
 	"layout": "single",
 	"cannonical": "/venues.html"
@@ -10,9 +10,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-8 col-md-6">
-				<h4>Venue Booking Request</h4>
 				<p>To request one of our venues, please complete the form below.</p>
-				<form name="contact" method="POST" netlify>
+				<form name="contact" method="POST" action="/thankyou.html" netlify>
 					<div class="site-input">
 						<label for="name">Your Name <abbr title="required">*</abbr></label>
 						<input id="name" type="text" name="name" placeholder="Ex: Firstname Lastname" required>
