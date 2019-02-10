@@ -35,13 +35,13 @@
 						<textarea id="event-desc" rows="4" cols="50" name="event-desc" placeholder="Please provide a short description of your event here."></textarea>
 					</div>
 					<div class="row" style="padding-bottom: 0;">
-						<div class="col-xs-6">
+						<div class="col-sm-6 col-xs-12">
 							<div class="site-input">
 								<label for="event-date">Event Date:</label>
 								<input id="event-date" type="date" name="event-date">
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-xs-12 col-sm-6">
 							<div class="site-input">
 								<label for="event-time">Event Time:</label>
 								<input id="event-time" type="time" name="event-time">
@@ -53,7 +53,7 @@
 						<input class="address-input" id="event-address" type="text" name="event-address" placeholder="Ex: 1281 Biscayne Dr, Concord, NC 28027 ">
 					</div>
 					<div class="row" style="padding-bottom: 0;">
-						<div class="col-xs-6">
+						<div class="col-sm-6 col-xs-12">
 							<div class="site-input">
 								<label for="event-attire">Event Attire:</label>
 								<select id="event-attire" name="event-attire">
@@ -64,7 +64,7 @@
 								</select>
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-sm-6 col-xs-12">
 							<div class="site-input">
 								<label for="event-type">Event Type:</label>
 								<select id="event-type" name="event-type">
@@ -86,7 +86,7 @@
 						<input id="event-desc" type="text" name="event-desc" placeholder="Ex: Family Gathering">
 					</div>
 					<div class="row" style="padding-bottom: 0;">
-						<div class="col-xs-6">
+						<div class="col-sm-6 col-xs-12">
 							<div class="site-input">
 								<label for="event-public">Is this a Public Event ?</label>
 								<select id="event-public" name="event-public">
@@ -96,7 +96,7 @@
 								</select>
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-sm-6 col-xs-12">
 							<div class="site-input">
 								<div class="site-input">
 									<label for="attendance">Estimated Attendance</label>
@@ -104,7 +104,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-sm-6 col-xs-12">
 							<div class="site-input">
 								<label for="event-video">Will Event Be Recorded or streamed ?</label>
 								<select id="event-video" name="event-video">
@@ -114,7 +114,7 @@
 								</select>
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-sm-6 col-xs-12">
 							<div class="site-input">
 								<label for="activities-after">Activities Planned after event ?</label>
 								<select id="activities-after" name="activities-after">
@@ -173,7 +173,7 @@
 					</div>
 					<div data-netlify-recaptcha></div>
 					<br><br>
-					<button type="submit" class="button blue float-right">Send Invitation</button>
+					<button type="submit" class="button blue float-right " style="margin-bottom: 30px;">Send Invitation</button>
 				</form>
 			</div>
 			<div class="col-xs-12 col-sm-4 col-md-5 col-md-offset-1">
