@@ -136,7 +136,7 @@
 					<div class="row" style="padding-bottom: 0;">
 						<div class="col-xs-12">
 							<div class="site-input">
-								<label for="sell-products">Can we display and offer our products ?</label>
+								<label for="sell-products">Can we display and offer our products at this event?</label>
 								<select id="sell-products" name="sell-products">
 									<option value="">Click to Select</option>
 									<option value="yes">Yes - you may offer your products</option>
