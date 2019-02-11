@@ -167,7 +167,7 @@
 						<div class="col-xs-12">
 							<div class="site-input">
 								<label for="gift-amount">If so, how much would you like to give?</label>
-								<input class="dollar-input" id="gift-amount" type="number" name="gift-amount" placeholder="$2000.00" step="0.01" min="0.00">
+								<input class="dollar-input" id="gift-amount" type="number" name="gift-amount" placeholder="$0.00" step="0.01" min="0.00">
 							</div>
 						</div>
 					</div>
