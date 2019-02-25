@@ -3,9 +3,16 @@
   "header": "Events",
   "featuredEvents": [
     {
-      "image": "/images/uploads/daniel-fast450x450.jpg"
+      "image": "/images/uploads/copy-of-ladies-nigh-made-with-postermywall.jpg"
     }
   ],
-  "moreEvents": []
+  "moreEvents": [
+    {
+      "image": "/images/uploads/kingdom-kidz-flyer.jpg"
+    },
+    {
+      "image": "/images/uploads/teen-summit_3.12.19.jpg"
+    }
+  ]
 }
 
