@@ -4,7 +4,7 @@
 	"header": "Invite Pastor Steele",
 	"type": "page",
 	"layout": "single",
-	"cannonical": "/venues.html"
+	"cannonical": "/booking.html"
 }
 <section class="interior-section">
 	<div class="container">

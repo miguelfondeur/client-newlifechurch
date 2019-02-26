@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-8 col-md-6">
 				<p>To request one of our venues, please complete the form below.</p>
-				<form name="contact" method="POST" action="/thankyou.html" netlify>
+				<form name="venues" method="POST" action="/thankyou.html" netlify>
 					<div class="site-input">
 						<label for="name">Your Name <abbr title="required">*</abbr></label>
 						<input id="name" type="text" name="name" placeholder="Ex: Firstname Lastname" required>
