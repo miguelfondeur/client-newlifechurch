@@ -6,9 +6,6 @@
       "link": "/sermons.html"
     },
     {
-      "image": "/images/uploads/arise.jpg"
-    },
-    {
       "image": "/images/uploads/fran.jpg"
     }
   ]
