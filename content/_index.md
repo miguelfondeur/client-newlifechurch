@@ -6,8 +6,10 @@
       "link": "/sermons.html"
     },
     {
-      "image": "/images/carousel/events-hero.jpg",
-      "link": "/events.html"
+      "image": "/images/uploads/arise.jpg"
+    },
+    {
+      "image": "/images/uploads/fran.jpg"
     }
   ]
 }
