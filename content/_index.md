@@ -2,16 +2,14 @@
 "title": "New Life Baptist Church | Concord, NC",
   "homepageSlider": [
     {
-      "image": "/images/carousel/newmember-hero.jpg",
-      "link": "/newmembers.html"
-    },
-    {
       "image": "/images/carousel/sermon-hero.jpg",
       "link": "/sermons.html"
     },
     {
-      "image": "/images/carousel/events-hero.jpg",
-      "link": "/events.html"
+      "image": "/images/uploads/arise.jpg"
+    },
+    {
+      "image": "/images/uploads/fran.jpg"
     }
   ]
 }
