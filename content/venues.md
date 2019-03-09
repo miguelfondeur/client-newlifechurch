@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-8 col-md-6">
 				<p>To request one of our venues, please complete the form below.</p>
-				<form name="venues" method="POST" action="/thankyou.html" netlify>
+				<form name="venue-request" method="POST" action="/thankyou.html" netlify>
 					<div class="site-input">
 						<label for="name">Your Name <abbr title="required">*</abbr></label>
 						<input id="name" type="text" name="name" placeholder="Ex: Firstname Lastname" required>
@@ -22,13 +22,17 @@
 					</div>				
 					<div class="site-input">
 						<label for="venues">Which Venue would you like to Reserve ? <abbr title="required">*</abbr></label>
-						<select id="venues" name="venues">
+						<select id="venues" name="venues" required>
 							<option>Click to Select</option>
 							<option value="dream-center">Annie Streater Dream Center</option>
 							<option value="life-center">Sarah Gantt Family Life Center</option>
 							<option value="sanctuary">New Life Church Sanctuary</option>
 							<option value="multiple-venues">I would like to reserve multiple venues</option>
 						</select>
+					</div>
+					<div class="site-input">
+						<label for="event-date">Event Date:  <abbr title="required">*</abbr></label>
+						<input id="event-date" type="date" name="event-date" required>
 					</div>
 					<div class="site-input">
 						<label for="subject">Event Name: <abbr title="required">*</abbr></label>
