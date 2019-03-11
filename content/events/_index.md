@@ -8,9 +8,6 @@
   ],
   "moreEvents": [
     {
-      "image": "/images/uploads/kingdom-kidz-flyer.jpg"
-    },
-    {
       "image": "/images/uploads/fran.jpg"
     },
     {
