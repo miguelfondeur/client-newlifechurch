@@ -43,6 +43,15 @@ gulp.task('default', function() {
 		gulp.watch('./static-source/images/**/*', ['image']);
 });
 
-//ADD BABEL
-//ADD CRITICAL
-//MINIFY HTML
+//javascript
+gulp.task('fonts', function() {
+	return gulp.src('./static-source/fonts/**/*.js')
+		.pipe(uglify())
+		.pipe(gulp.dest('./static/javascript'))
+});
+
+//Fonts
+gulp.task('fonts', function() {
+	return gulp.src('./static-source/fonts/**/*')
+		.pipe(gulp.dest('./static/fonts/'))
+})
