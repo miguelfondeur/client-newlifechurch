@@ -186,7 +186,7 @@
 .icon-cup-coffee:before {
   content: "\31";
 }
-.icon-facebook:before {
+.icon-social-facebook:before {
   content: "\32";
 }
 .icon-facebook-outline:before {
@@ -210,7 +210,7 @@
 .icon-globe-outline:before {
   content: "\39";
 }
-.icon-globe-world:before {
+.icon-android-globe:before {
   content: "\21";
 }
 .icon-heart-small:before {
@@ -237,13 +237,13 @@
 .icon-linkedin-outline:before {
   content: "\29";
 }
-.icon-mail-letter-outline:before {
+.icon-mail:before {
   content: "\2a";
 }
 .icon-mark-map:before {
   content: "\2b";
 }
-.icon-mark-map-outline:before {
+.icon-ios-location-outline:before {
   content: "\2c";
 }
 .icon-mic-outline:before {
@@ -252,7 +252,7 @@
 .icon-mic-5:before {
   content: "\2e";
 }
-.icon-mobile-phone:before {
+.icon-iphone:before {
   content: "\2f";
 }
 .icon-photos-pictures:before {
@@ -339,12 +339,10 @@
 .icon-android-bulb:before {
   content: "\e00b";
 }
-.icon-001-people:before {
+.icon-006-multiple-users-silhouette:before {
   content: "\e00a";
 }
-.icon-006-multiple-users-silhouette:before {
-  content: "\e00c";
-}
+
 .icon-linkedin-1:before {
   content: "\e00d";
 }
@@ -352,6 +350,48 @@
   content: "\e00e";
 }
 .icon-envelope-o:before {
+  content: "\e00f";
+}
+.icon-002-hospital-building:before {
+  content: "\e010";
+}
+.icon-003-front-of-bus:before {
+  content: "\e011";
+}
+.icon-mixer-2:before {
+  content: "\e012";
+}
+.icon-005-grid-world:before {
+  content: "\e013";
+}
+.icon-007-cross:before {
+  content: "\e014";
+}
+.icon-008-bible:before {
+  content: "\e015";
+}
+.icon-009-teacher-reading:before {
+  content: "\e016";
+}
+.icon-map-pin-streamline:before {
+  content: "\e017";
+}
+.icon-mobile:before {
+  content: "\e018";
+}
+.icon-earth:before {
+  content: "\e019";
+}
+.icon-video-camera:before {
+  content: "\e00c";
+}
+.icon-social-youtube:before {
+  content: "\e00d";
+}
+.icon-social-youtube-outline:before {
+  content: "\e00e";
+}
+.icon-001-people:before {
   content: "\e00f";
 }
 .icon-002-hospital-building:before {
@@ -375,6 +415,7 @@
 .icon-009-teacher-reading:before {
   content: "\e016";
 }
+
 
 /* Modifiers */
 .icon-round {
