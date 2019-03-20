@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53f5ac8d2464dc0e016ddf6cb042cd27831a7154d3a76f035e9d253bde5862eb
-size 290
+{
+	"title": "New Life Baptist Church | Giving",
+	"description": "",
+	"header": "Giving",
+	"type": "page",
+	"layout": "single",
+	"cannonical": "/giving.html"
+}
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<p></p>
+			</div>
+		</div>
+	</div>
+</section>

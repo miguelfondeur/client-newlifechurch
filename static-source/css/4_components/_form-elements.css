@@ -1,3 +1,108 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da168cadc2e759af4ca6b46b1e2b26850412f097f765df7a136fc717a64b8d2d
-size 1971
+/*****************
+ * Form Elements
+ ****************/
+
+input, 
+textarea, 
+select {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	padding: 15px 10px;
+	margin: 0;
+	width: 100%;
+	text-indent: 0;
+	border-radius: 0;
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,0), inset 0 0 0 0 rgba(0,0,0,0);
+	background-color: transparent;
+	transition: all 0.4s ease;
+	border: 1px solid #ccc;
+	position: relative;
+}
+
+input[type="text"]:focus, 
+input[type="password"]:focus, 
+input[type="email"]:focus, 
+input[type="number"]:focus, 
+input[type="date"]:focus, 
+input[type="url"]:focus, 
+input[type="tel"]:focus, 
+input[type="search"]:focus, 
+textarea:focus, 
+input[type="submit"] {
+	outline: none;
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,0.1);
+	background-color: #fff;
+}
+
+input:hover, 
+select:hover, 
+textarea:hover {
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,0.1);
+	background-color: #fff;
+}
+
+.site-input ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	color: #aaa;
+	font-style: italic;
+}
+.site-input ::-moz-placeholder { /* Firefox 19+ */
+	color: #aaa;
+	font-style: italic;
+}
+.site-input :-ms-input-placeholder { /* IE 10+ */
+	color: #aaa;
+	font-style: italic;
+}
+.site-input :-moz-placeholder { /* Firefox 18- */
+	color: #aaa;
+	font-style: italic;
+}
+
+.site-input abbr {
+	border-bottom: none;
+	text-decoration: none;
+}
+
+.site-input input, .site-input textarea {
+	border-color: #ccc;
+}
+
+.site-input {
+	position: relative;
+	margin-bottom: 30px;
+	color: #333;
+	position:relative;
+}
+
+.site-input, .site-input label {
+	font-family: 'Montserrat',sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 11px !important;
+	text-transform: uppercase;
+	line-height: 1.5;
+}
+
+.site-input label {
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+.site-input input,
+.site-input textarea {
+	width: 100%;
+	display: block;
+	resize: none;
+}
+
+.site-input select:after {
+	content: "▾";
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	display: block;
+	z-index: 30;
+	color: #000;
+	right: 0;
+	top: 10px;
+}

@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:484fdc8e13912717074f19b79ad0ce1431c1ab66f3a23a756783ed538b6a6c1f
-size 462
+{
+"title": "New Life Baptist Church | Events",
+  "header": "Events",
+  "featuredEvents": [
+    {
+      "image": "/images/uploads/copy-of-ladies-nigh-made-with-postermywall.jpg"
+    }
+  ],
+  "moreEvents": [
+    {
+      "image": "/images/uploads/kingdom-kidz-flyer.jpg"
+    },
+    {
+      "image": "/images/uploads/fran.jpg"
+    },
+    {
+      "image": "/images/uploads/teen-summit_3.12.19.jpg"
+    },
+    {
+      "image": "/images/uploads/arise.jpg"
+    }
+  ]
+}
+

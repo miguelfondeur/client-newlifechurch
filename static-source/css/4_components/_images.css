@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17332b15c7915956fb3a2dba500bbc8d0dea9d8ac5be538f47158a02ad198f62
-size 130
+/*****************
+ * Site Images
+ ****************/
+
+ .img-girlscout {
+		max-width: 28rem;
+		margin: 0 auto;
+		display: block;
+ }

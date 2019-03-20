@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d307f8e275ddaadeb5dfaa33243c89d9a17b0d1a3a793b25aa8be91005dca2b
-size 480
+{
+	"title": "New Life Baptist Church | Thank You for your Request",
+	"description": "",
+	"header": "Thank You",
+	"type": "page",
+	"layout": "404",
+	"cannonical": "/thankyou.html"
+}
+<section>
+	<div class="container small" >				
+			<h2>THANK YOU!</h2>
+			<p style="text-align: center;">Thank you for your request. We will be contacting you shortly with more information. God Bless You!
+			<br><br>
+				<a class="button" href="/index.html">Back to Home</a>
+			</p>
+	</div>
+</section>

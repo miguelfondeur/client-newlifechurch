@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5dbe441813bc26a5a753f6c98a1bedfbb14a318ebe682552f67c03c0249ae950
-size 395
+{
+	"title": "New Life Baptist Church",
+	"baseURL": "http://newlifeconcord.org",
+	"defaultExtension": "html",
+	"uglyURLs": true,
+	"canonifyurls": false,
+	"relativeURLs": false,
+	"enableRobotsTXT": false,
+	"disableHugoGeneratorInject": true,
+	"metaDataFormat": "json",
+	"disableKinds": ["RSS", "sitemap"],
+	"verbose": false, 
+	"buildDrafts": true,
+	"publishdir": "public/",
+	"logFile": "log.txt"
+}

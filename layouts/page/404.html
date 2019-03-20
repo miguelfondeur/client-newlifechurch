@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:109ff1d2dcd3852413fcf0ff67cddadb991e770e4edbdfc9a32a57cd370f3b7e
-size 373
+{{ partial "header" }}
+    <div class="wrapper">
+        {{ partial "layout-nav" }}
+        <div class="page-container">
+            <div class="page-content">
+                {{ .Content }}
+            </div>    
+            {{ partial "layout-footer" }}
+        </div><!-- .main -->
+    </div><!-- .wrapper -->
+    {{ partial "layout-side-nav" }}
+{{ partial "footer" }} 

@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57cb7dd1ac78c8a1dab7b96452270fbb17f119cef5a730108a9babff4673dc6f
-size 522
+footer {
+    background-color: #333;
+    padding: 3rem;
+    z-index: 5;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 200;
+}
+
+footer h4 {
+  color: #fff;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+footer p, footer .connect-icons i {
+  color: #999;
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
+
+footer .connect-icons i {
+  margin-left: 0; 
+  margin-right: .7rem;
+}
+
+footer .connect-icons {
+  display: inline-block;
+  position: relative;
+  right: 0;
+  margin-top: .5rem;
+}
+
+footer p.p4 {
+  font-size: 1.2rem;
+}

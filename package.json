@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5564d01334d2a8ba7665d3788d9e9b8451ecacc1c7a1fd7bea9169f7eb6d3e0b
-size 445
+{
+  "baseURL": "/",
+  "name": "newlife",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "hugo server & gulp",
+    "build": "hugo"
+  },
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-uglify": "^3.0.0",
+    "postcss-cssnext": "^2.11.0",
+    "postcss-easy-import": "^2.1.0"
+  },
+  "dependencies": {
+    "netlify-cms": "^1.9.2"
+  }
+}

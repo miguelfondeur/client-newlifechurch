@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe199c8984efd3f53424d54cc1f0536dad9d1677a867934d595310d78a1fa947
-size 717
+@charset "UTF-8";
+
+@font-face {
+  font-family: "untitled-font-1";
+  src:url("../../fonts/fontastic/untitled-font-1.eot");
+  src:url("../../fonts/fontastic/untitled-font-1.eot?#iefix") format("embedded-opentype"),
+    url("../../fonts/fontastic/untitled-font-1.woff") format("woff"),
+    url("../../fonts/fontastic/untitled-font-1.ttf") format("truetype"),
+    url("../../fonts/fontastic/untitled-font-1.svg#untitled-font-1") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Italianno');

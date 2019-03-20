@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6172eeed10d027e90b10184c2a55a098a0a3474d59f2d0190b6ffa239e010154
-size 241
+.col-100 {
+	padding: 0 15px;
+	width: 100%;
+    clear: both;
+}
+
+.col-50 {
+    padding: 0 15px;
+    width: 50%;
+    float: left;
+}
+.col-50 p {
+    text-justify: justify;
+}
+
+.col-30 {
+    padding: 0 15px;
+    width: 33.333%;
+    float: left;
+}

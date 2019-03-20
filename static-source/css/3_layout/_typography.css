@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ec1b94caf5f16d995dbef013f7ab8ac9a1e24b17f44881aacaa3720b2c043c2
-size 340
+.link {
+	color: purple;
+}
+.medium-header {
+	color:#2d2a2b;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.4rem; 
+	margin: 0 0 2rem;
+	font-weight: 700;
+	text-align: left;
+}
+
+.small-header {
+	color: #666666;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 1.8rem;
+	text-align: left;
+}

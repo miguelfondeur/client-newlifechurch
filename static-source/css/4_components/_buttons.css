@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1857111eb7774a1272f693f1ca9b3e564ea12012f1f8ccc0ea31b510b4b2ae4a
-size 799
+/*****************
+ * Buttons
+ ****************/
+button, .button, input.button {
+    border: 2px solid; 
+    color: rgba(80,17,87,1);
+    font-family:'montserrat', sans-serif;
+    text-transform: uppercase;
+    padding: 1rem 3rem;
+    border-radius: 5rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+    letter-spacing: .15rem;
+    margin-top:1.5rem;
+    display: inline-block;
+    background-color: transparent;
+    transition: all 0.2s ease;
+    width: auto;
+}
+
+button:hover, .button:hover {
+    border: 2px solid rgba(80,17,87,1); 
+    background-color: rgba(80,17,87,1);
+    color: #fff;
+}
+
+button.blue, .button.blue {
+    color: rgba(54,142,177,.9);
+}
+
+button.blue:hover, .button.blue:hover {
+    background-color: rgba(54,142,177,.9);
+    border-color: rgba(54,142,177,.7);
+    color: #fff;
+}

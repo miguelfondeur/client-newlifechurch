@@ -1,3 +1,137 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dfc4b1d599549e3d9934a2953a2851a5b1a39248751b03cd34ee6d335c5724f1
-size 2561
+section {
+    text-align: center;
+    padding: 5rem 0;
+    clear: both;
+}
+
+section p {
+    text-align: left;
+}
+
+section h2 {
+    margin: 0 0 3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color:#2d2a2b;
+    text-transform: uppercase;
+    font-size: 3.6rem;
+    display: inline-block;
+    padding-bottom: 1rem;
+    border-bottom: .1rem solid purple;
+}
+
+section h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.8rem;
+    text-transform: none;
+    color: #666666;
+    margin-top: 0;
+    margin-bottom: 6rem;
+    line-height: 1.5;
+}
+
+.section-title {
+    font-family:'montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #333;
+    margin-bottom: 2rem;
+}
+
+section h2.section-header_small {
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+section.bg-primary {
+	background-color: #501157;
+    background-image: linear-gradient(#501157, #37003E);
+}
+
+section.bg-primary.background-charlotte {
+	background-image: url(/images/charlotte.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-color: #333;
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+}
+
+section.bg-primary h2,
+section.bg-primary h4,
+section.bg-primary .button {
+	color: rgba(250, 250, 250, .95);
+}
+
+section.bg-primary h2 {
+    border-bottom-color: #fff;
+}
+
+section.interior-section {
+   padding-bottom: 0px;
+   padding-top: 6rem;
+   text-align: left;
+}
+
+section.interior-section img {
+    margin-bottom: 2rem;
+}
+
+section.interior-section .row {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 6rem;
+}
+
+section.interior-section:last-of-type .row{
+    border-bottom: none;
+}
+
+section.interior-section h1, 
+section.interior-section h3, 
+section.interior-section h2,
+section.interior-section h4 {
+    color: #2d2a2b;
+    text-transform: uppercase;
+    font-family:'montserrat', sans-serif;
+    margin-top: 0;
+    margin-bottom: 2rem;
+    border: 0;
+}
+
+section.interior-section h1 {
+    font-size: 4.8rem;
+    font-weight: 700;
+}
+
+section.interior-section h3 {
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+section.interior-section h4 {
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+.section-block {
+    padding-bottom: 5rem;
+}
+
+.section-block-lg {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+@media screen and (max-width: 560px) {
+    section h2 {
+        font-size: 3rem;
+    }
+    section.interior-section h4 {
+        font-size: 2rem;
+    }
+}
