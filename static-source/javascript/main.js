@@ -54,7 +54,7 @@ $(document).ready(function() {
 		forEach(imageThumbs, function(i){
 			imageThumbs[i].addEventListener('click', function(){
 				pageOverlay.classList.add('show');
-				pageOverlay.querySelector('img').src = imageThumbs[i].querySelector('img').src.replace("?nf_resize=smartcrop&w=944&h=561", "");
+				pageOverlay.querySelector('img').src = imageThumbs[i].querySelector('img').src;
 				pageOverlay.querySelector('img').alt = imageThumbs[i].querySelector('img').alt;
 			})
 		})
