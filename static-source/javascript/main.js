@@ -50,11 +50,13 @@ $(document).ready(function() {
 	
 		var imageThumbs = document.querySelectorAll('.image-thumb');
 		var pageOverlay = document.querySelector('.page-overlay');
+		var imgSrc;
 	
 		forEach(imageThumbs, function(i){
 			imageThumbs[i].addEventListener('click', function(){
+				imgSrc = imageThumbs[i].querySelector('img').src;
 				pageOverlay.classList.add('show');
-				pageOverlay.querySelector('img').src = imageThumbs[i].querySelector('img').src;
+				pageOverlay.querySelector('img').src = imgSrc.replace("?nf_resize=smartcrop&w=337&h=227", "");
 				pageOverlay.querySelector('img').alt = imageThumbs[i].querySelector('img').alt;
 			})
 		})
