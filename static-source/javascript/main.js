@@ -65,6 +65,7 @@ $(document).ready(function() {
 			pageOverlay.addEventListener('click', function(){
 				if(pageOverlay.classList.contains('show')){
 					pageOverlay.classList.remove('show');
+					pageOverlay.querySelector('img').src = "";
 				}
 			});
 		}
