@@ -1,0 +1,48 @@
+{{ partial "header" }}
+    <div class="wrapper">
+        {{ partial "layout-nav" }}
+        <header class="site-header internal-page">
+            <h1>{{ .Params.header }}</h1>
+            <i class="icon-ios-arrow-down"></i>
+        </header>
+        <div class="page-container">
+            <div class="page-content">
+								
+							<section class="interior-section">
+								<div class="container">		
+									{{ range .Params.events }}
+										<div class="row">			
+											<div class="col-xs-12 col-sm-10 col-sm-offset-1">
+												<h3>
+													<!-- Event title -->
+													{{ .event_title }}
+												</h3>
+												<br>
+												<div class="row">	
+													{{ range .event_images }}
+														<div class="image-thumb col-xs-6 col-sm-3">
+															<img src="{{ .src }}" alt=".title">
+															<div class="overlay">
+																<span>view</span>
+															</div>
+														</div>
+													{{ end }}
+												</div>
+											</div>
+										</div>
+									{{ end }}
+								</div>
+							</section>
+
+            </div>    
+            {{ partial "layout-footer" }}
+        </div><!-- .main -->
+		</div><!-- .wrapper -->
+		<div class="page-overlay">
+			<div class="container">
+					<div class="page-overlay--close">x</div>
+					<img src="" alt="">
+			</div>
+		</div>
+    {{ partial "layout-side-nav" }}
+{{ partial "footer" }} 

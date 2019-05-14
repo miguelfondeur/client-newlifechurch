@@ -29,4 +29,45 @@
     flex: 1;
 }
 
+.page-overlay {
+    background-color: rgba(0,0,0,.85);
+    display: block;
+    padding: 150px 0 30px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    visibility: hidden;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: .15s ease-in-out opacity;
+    z-index: 300;
+}   
 
+.page-overlay .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-overlay.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+.page-overlay.show img {
+    max-width: 800px;
+    
+}
+
+.page-overlay--close {
+    position: absolute;
+    font-family: montserrat,sans-serif;
+    font-size: 50px;
+    color: rgba(255,255,255,.8);
+    top: -100px;
+    right: 30px;
+    cursor: pointer;
+}
