@@ -6,6 +6,8 @@
       "image": "/images/uploads/2019.jpg"
     }
   ],
-  "moreEvents": []
+  "moreEvents": [
+    {}
+  ]
 }
 
