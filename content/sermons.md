@@ -8,10 +8,7 @@
 }
 <section>
 	<div class="container">
-		<div style="position: realtive; padding-bottom: 95%;">
-			<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.sundaystreams.com/embed/v4/5759/32424357/1/0/&amp;pr=16x9&amp;pp=1&amp;psp=37&amp;autoplay=1&amp;hidetitle=0" width="300" height="150" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
-			<!-- <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.sundaystreams.com/embed/v4/5759/32424357/1/0/&amp;pr=16x9&amp;pp=1&amp;psp=37&amp;autoplay=1&amp;hidetitle=0" width="300" height="150" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen">
-			</iframe> -->
-		</div>
+		<div id="boxcast-widget-hwhxxdng6xmdmpvzhhqa"></div>
+		<script type="text/javascript" charset="utf-8">(function(d, s, c, o) {var js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];var h = (('https:' == document.location.protocol) ? 'https:' : 'http:');js.src = h + '//js.boxcast.com/v3.min.js';js.onload = function() { boxcast.noConflict()('#boxcast-widget-'+c).loadChannel(c, o); };js.charset = 'utf-8';fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'hwhxxdng6xmdmpvzhhqa', {"showTitle":1,"showDescription":1,"showHighlights":1,"showRelated":true,"defaultVideo":"next","market":"house-of-worship","showDocuments":true,"showIndex":true,"showDonations":false,"layout":"playlist-to-right"}));</script>
 	</div>
 </section>
