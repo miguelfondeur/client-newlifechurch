@@ -26,11 +26,18 @@ collections:
             {label: "Description", name: "description", widget: "text"}]}
           - {label: "More Events", name: moreEvents, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"}]}
-      - label: "Homepage"
-        name: "homepage"
-        file: "content/_index.md"
+      - label: "Gallery"
+        name: "gallery"
+        file: "content/gallery/_index.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Homepage Slider", name: homepageSlider, widget: list, fields: [
-            {label: "Image", name: "image", widget: "image"},
-            {label: "Link", name: "link", widget: "text"}]}
+          - label: "Events"
+            name: events 
+            widget: list 
+            fields: 
+              - { label: Event Title, name: event_title, widget: string }
+              - label: Images 
+                name: event_images 
+                widget: list 
+                fields: 
+                  - { label: Image, name: src, widget: image }
+                  - { label: Title, name: title, widget: string }
