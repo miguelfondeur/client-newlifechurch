@@ -1,4 +1,4 @@
-const { watch, series } = require('gulp');
+const { watch, series, src, dest } = require('gulp');
 var postcss 	= require('gulp-postcss');
 var uglify    = require('gulp-uglify');
 var imagemin 	= require('gulp-imagemin');
@@ -72,3 +72,4 @@ exports.default = function() {
 	watch('./static-source/images/**/*', image);
 };
 
+exports.image = image;
