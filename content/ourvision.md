@@ -1,10 +1,7 @@
 {
 	"title": "New Life Baptist Church | Our Vision",
 	"description": "",
-	"header": "Our Vision",
-	"type": "page",
-	"layout": "single",
-	"cannonical": "/ourvision.html"
+	"header": "Our Vision"
 }
 <section>
 	<div class="container">

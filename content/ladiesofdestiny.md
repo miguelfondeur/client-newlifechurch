@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Women of Destiny",
 	"description": "",
 	"header": "Ladies of Destiny",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/ladiesofdestiny.html"
 }
 

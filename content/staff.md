@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Leadership Team",
 	"description": "",
 	"header": "Our Staff",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/staff.html"
 }
 <!-- Pastor Gary -->

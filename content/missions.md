@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Missions",
 	"description": "",
 	"header": "Missions",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/missions.html"
 }
 <section class="interior-section">

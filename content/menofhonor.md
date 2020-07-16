@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Men of Honor",
 	"description": "",
 	"header": "Men of Honor",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/menofhonor.html"
 }
 <section>

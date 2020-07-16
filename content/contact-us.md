@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Visit Us",
 	"description": "",
 	"header": "Contact Us",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/contact-us.html"
 }
 <section class="interior-section">

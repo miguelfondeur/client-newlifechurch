@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Deacons Ministry",
 	"description": "",
 	"header": "Deacons",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/deacons.html"
 }
 

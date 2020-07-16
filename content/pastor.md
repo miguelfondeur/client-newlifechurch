@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Meet The Pastor",
 	"description": "",
 	"header": "Meet the Pastor and First Lady",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/pastor.html"
 }
 <!-- Pastor Steele -->

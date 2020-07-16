@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Invite Pator Steele",
 	"description": "",
 	"header": "Invite Pastor Steele",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/booking.html"
 }
 <section class="interior-section">

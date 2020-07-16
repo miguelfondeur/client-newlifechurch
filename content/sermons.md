@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Sermons",
 	"description": "",
 	"header": "Sermons",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/sermons.html"
 }
 <section>

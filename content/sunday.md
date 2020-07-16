@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Sunday Teams",
 	"description": "",
 	"header": "Sunday Teams",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/sunday.html"
 }
 <section class="interior-section">

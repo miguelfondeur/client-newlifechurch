@@ -12,5 +12,12 @@
 	"verbose": false, 
 	"buildDrafts": true,
 	"publishdir": "public/",
-	"logFile": "log.txt"
+	"logFile": "log.txt",
+	"markup": {
+		"goldmark": {
+		   "renderer": {
+			  "unsafe": true
+		   }
+		}
+	 }
 }

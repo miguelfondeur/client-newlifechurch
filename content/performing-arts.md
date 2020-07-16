@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Giving",
 	"description": "",
 	"header": "Performing Arts",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/performing-arts.html"
 }
 <section class="interior-section">

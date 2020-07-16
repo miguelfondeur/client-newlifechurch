@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Prayer Requests",
 	"description": "",
 	"header": "Prayer Requests",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/prayer-requests.html"
 }
 <section class="interior-section">

@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Hospitality",
 	"description": "",
 	"header": "Hospitality",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/hospitality.html"
 }
 <section class="interior-section">

@@ -2,8 +2,6 @@
 	"title": "New Life Baptist Church | Book Our Venues",
 	"description": "",
 	"header": "Request a Venue",
-	"type": "page",
-	"layout": "single",
 	"cannonical": "/venues.html"
 }
 <section class="interior-section">
