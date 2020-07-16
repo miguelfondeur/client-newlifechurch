@@ -6,10 +6,10 @@
       "link": "/sermons.html"
     },
     {
-      "image": "/images/uploads/arise.jpg"
+      "image": "/images/carousel/sermon-hero.jpg",
     },
     {
-      "image": "/images/uploads/fran.jpg"
+      "image": "/images/carousel/sermon-hero.jpg",
     }
   ]
 }
