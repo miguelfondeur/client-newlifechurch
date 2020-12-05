@@ -7,47 +7,31 @@
 <section class="interior-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-8 col-md-6">
-				<p>To request one of our venues, please complete the form below.</p>
-				<form name="venue-request" method="POST" action="/thankyou.html" netlify>
-					<div class="site-input">
-						<label for="name">Your Name <abbr title="required">*</abbr></label>
-						<input id="name" type="text" name="name" placeholder="Ex: Firstname Lastname" required>
-					</div>
-					<div class="site-input">
-						<label for="email">Your Email <abbr title="required">*</abbr></label>
-						<input id="email" type="email" name="email" placeholder="Ex: example@email.com" required>
-					</div>				
-					<div class="site-input">
-						<label for="venues">Which Venue would you like to Reserve ? <abbr title="required">*</abbr></label>
-						<select id="venues" name="venues" required>
-							<option>Click to Select</option>
-							<option value="dream-center">Annie Streater Dream Center</option>
-							<option value="life-center">Sarah Gantt Family Life Center</option>
-							<option value="sanctuary">New Life Church Sanctuary</option>
-							<option value="multiple-venues">I would like to reserve multiple venues</option>
-						</select>
-					</div>
-					<div class="site-input">
-						<label for="event-date">Event Date:  <abbr title="required">*</abbr></label>
-						<input id="event-date" type="date" name="event-date" required>
-					</div>
-					<div class="site-input">
-						<label for="subject">Event Name: <abbr title="required">*</abbr></label>
-						<input id="subject" type="text" name="subject" placeholder="Ex: Wedding">
-					</div>
-					<div class="site-input">
-						<label for="message">Event Description <abbr title="required">*</abbr></label>
-						<textarea id="message" rows="4" cols="50" name="message" placeholder="Short description of your event and your needs"></textarea>
-					</div>
-					<div data-netlify-recaptcha></div>
-					<br><br>
-					<button type="submit" class="button blue float-right" style="margin-bottom: 30px;">Request Venue</button>
-				</form>
+			<div class="col-xs-12 col-sm-10 col-md-offset-1 text-center">
+				<h4>Covid 19 Notice</h4>
+				<p class="text-center">Thank you for your interest in hosting an event here at New Life Baptist Church. Due to the COVID-19 Pandemic, the church will be limiting the use of its facilities to only internal ministry events until further notice. We apologize for any inconvenience this may cause, but our decision was made to ensure the health and safety of our church and community.</p>
+				<p class="text-center">If you are a current member planning a ministry event, please complete the Facility Event Form. You will be contacted by the church secretary once your event has gone through the review process.</p>
+				<p class="text-center">
+					<a class="button purple" 
+					   title="Go To Venue Form"
+					   href="https://forms.gle/jSKkF6yND7phanS69" 
+					   target="_blank">
+					   Facility Request Form
+					</a>
+				</p>
+				<p class="text-center">
+					Please call the church office for any questions.
+				</p>
 			</div>
-			<div class="col-xs-12 col-sm-4 col-md-5 col-md-offset-1">
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-4">
 				<img src="images/sanctuary.jpg" class="thumbnail">
+			</div>
+			<div class="col-xs-12 col-sm-4">
 				<img src="images/wes2.jpg" class="thumbnail">
+			</div>
+			<div class="col-xs-12 col-sm-4">
 				<img src="images/dreamcenter.jpg" class="thumbnail">
 			</div>
 		</div>
