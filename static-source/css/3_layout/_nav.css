@@ -26,6 +26,10 @@ nav.site-nav.site-nav-scrolled {
     top: 0;
 }
 
+nav.site-nav.site-nav-scrolled .side-nav-trigger {
+    color: #fff;
+} 
+
 nav.site-nav.site-nav-scrolled  li a, nav.site-nav.site-nav-scrolled a, nav.site-nav.site-nav-scrolled i {
     color: #fff;
 }
