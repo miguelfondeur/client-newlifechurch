@@ -32,7 +32,9 @@
 						<textarea id="address" rows="4" cols="50" name="address" placeholder="Please Your Address Here. Street, City, State, Zip"></textarea>
 					</div>
 					<div data-netlify-recaptcha></div>
-					<button type="submit" class="button blue float-right" style="margin-bottom: 30px;">Request Giving Statement</button>
+					<button type="submit" class="button blue float-right" style="margin-bottom: 30px;">
+                        Request Giving Statement
+                    </button>
 				</form>
 			</div>
 		</div>
