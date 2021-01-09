@@ -1,7 +1,7 @@
 {
 "events": [
     {
-      "event_title": "",
+      "event_title": "Images Coming Soon",
       "event_images": []
     }
   ]
