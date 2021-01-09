@@ -6,10 +6,12 @@
       "link": "/sermons.html"
     },
     {
-      "image": "/images/carousel/sermon-hero.jpg"
+      "image": "/images/carousel/kingdomkids.jpg",
+      "link": "/events.html"
     },
     {
-      "image": "/images/carousel/sermon-hero.jpg"
+      "image": "/images/carousel/events-hero.jpg",
+      "link": "/events.html"
     }
   ]
 }
