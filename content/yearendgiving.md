@@ -28,8 +28,8 @@
 					</div>
                     <p>Do you prefer form to be mailed or emailed?</p>
 					<div class="site-input">
-						<label for="message">Your Address</label>
-						<textarea id="message" rows="4" cols="50" name="message" placeholder="Please Your Address Here. Street, City, State, Zip"></textarea>
+						<label for="address">Your Address</label>
+						<textarea id="address" rows="4" cols="50" name="address" placeholder="Please Your Address Here. Street, City, State, Zip"></textarea>
 					</div>
 					<div data-netlify-recaptcha></div>
 					<button type="submit" class="button blue float-right" style="margin-bottom: 30px;">Request Giving Statement</button>
