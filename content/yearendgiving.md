@@ -16,11 +16,11 @@
 					</div>
 					<div class="site-input">
 						<label for="email">Your Email <abbr title="required">*</abbr></label>
-						<input id="email" type="email" name="email" placeholder="Ex: Firstname Lastname" required>
+						<input id="email" type="email" name="email" pattern="[^@]+@[^@]+\.[a-zA-Z]{2,6}" placeholder="Ex: Firstname Lastname" required>
 					</div>	
 					<div class="site-input">
 						<label for="phone">Phone Number</label>
-						<input id="phone" type="tel" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" placeholder="999-999-9999">
+						<input id="phone" type="tel" name="phone" pattern="^\d{3}-\d{3}-\d{4}$" placeholder="999-999-9999">
 					</div>
                     <div class="site-input">
 						<label for="giving-number">Your Giving Number</label>
