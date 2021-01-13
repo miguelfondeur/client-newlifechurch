@@ -156,7 +156,7 @@
 				<p class="text-justify">
 					Tanisha Torrence has been a member of New Life for 4 years.  A transplant from the Bronx, NY in 2007, she searched for church to make her home.  New Life won that search on Father’s Day 2013, her first time visit. Since joining she has served under the usher ministry, greeter’s ministry, missions ministry, hospitality ministry and adult choir.  She accepted the role of church administrator and secretary to Pastor Steele in November of 2016.
 			</p>
-			<p class="text-justify">Email: <a class="link" href="mailto:newlifeconcord@outlook.org" target="_self">newlifeconcord@outlook.org</a></p>
+			<p class="text-justify">Email: <a class="link" href="mailto:newlifeconcord@outlook.com" target="_self">newlifeconcord@outlook.com</a></p>
 			</div>
     </div>
 	</div>
