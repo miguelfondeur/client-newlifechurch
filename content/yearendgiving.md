@@ -11,8 +11,8 @@
 				<h4>Giving Statement Tax Form</h4>
 				<form name="giving-statements" method="POST" action="/thankyou.html" netlify>
 					<div class="site-input">
-						<label for="giving-number">Your Name <abbr title="required">*</abbr></label>
-						<input id="giving-number" type="text" name="name" placeholder="Ex: Firstname Lastname" required>
+						<label for="name">Your Name <abbr title="required">*</abbr></label>
+						<input id="name" type="text" name="name" placeholder="Ex: Firstname Lastname" required>
 					</div>
 					<div class="site-input">
 						<label for="email">Your Email <abbr title="required">*</abbr></label>
@@ -26,10 +26,20 @@
 						<label for="giving-number">Your Giving Number</label>
 						<input id="giving-number" type="text" name="giving-number" placeholder="">
 					</div>
-                    <p>Do you prefer form to be mailed or emailed?</p>
+                    <p>Please select how you would like to receive your Giving Statement.</p>
+					<div class="site-input">
+						<label for="email-copy">
+							<input type="radio" id="email-copy" name="method" value="email-copy">
+								Email your Giving Statement
+						</label><br>
+						<label for="physical-copy">
+							<input type="radio" id="physical-copy" name="method" value="physical-copy">
+								Send a physical copy of your giving statement to the address provided below
+						</label>
+					</div>
 					<div class="site-input">
 						<label for="address">Your Address</label>
-						<textarea id="address" rows="4" cols="50" name="address" placeholder="Please Your Address Here. Street, City, State, Zip"></textarea>
+						<textarea id="address" rows="4" cols="50" name="address" placeholder="If you have requested a phsysical copy above, please include Your Address Here. Street, City, State, Zip"></textarea>
 					</div>
 					<div data-netlify-recaptcha></div>
 					<button type="submit" class="button blue float-right" style="margin-bottom: 30px;">
