@@ -36,3 +36,10 @@
 	display: block; 
 	margin-bottom: 40px;
 }
+
+.button.profile-button {
+	width: 100%;
+	max-width: 500px; 
+	margin: 0 auto 40px; 
+	display: block; 
+}
