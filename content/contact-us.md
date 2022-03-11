@@ -27,14 +27,8 @@
 			</div>
 			<div class="col-md-6">
 				<h4>Service Times</h4>
-				<p>Early Sunday Worship
-					<br>8:30 am
-					<br>
-					<br>Kingdom Education Hour
-					<br>10:15 am
-					<br>
-					<br>Sunday Worship
-					<br>11:00am
+				<p>Sunday Worship
+					<br>10:00 am
 					<br>
 					<br>Monday Broadcast
 					<br>WHKY TV 14 TWCable18
