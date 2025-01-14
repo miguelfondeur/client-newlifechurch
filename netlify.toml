@@ -1,0 +1,7 @@
+[build]
+  publish = "public" # Replace "public" with your Hugo output folder if different
+  command = "npm run build" # Default Hugo build command
+
+[context.production.environment]
+  HUGO_VERSION = "v0.121.2" # Replace with your desired Hugo version
+  HUGO_ENV = "production"
